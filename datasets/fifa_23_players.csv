@@ -1,0 +1,1000 @@
+1,L. Messi,91,91,54000000,CAM,Argentina,35,169,67,Paris Saint-Germain,Left
+2,K. Benzema,91,91,64000000,CF,France,34,185,81,Real Madrid CF,Right
+3,R. Lewandowski,91,91,84000000,ST,Poland,33,185,81,FC Barcelona,Right
+4,K. De Bruyne,91,91,107500000,CM,Belgium,31,181,70,Manchester City,Right
+5,K. Mbappé,91,95,190500000,ST,France,23,182,73,Paris Saint-Germain,Right
+6,M. Salah,90,90,115500000,RW,Egypt,30,175,71,Liverpool,Left
+7,T. Courtois,90,91,90000000,GK,Belgium,30,199,96,Real Madrid CF,Left
+8,M. Neuer,90,90,13500000,GK,Germany,36,193,93,FC Bayern München,Right
+9,Cristiano Ronaldo,90,90,41000000,ST,Portugal,37,187,83,Manchester United,Right
+10,V. van Dijk,90,90,98000000,CB,Netherlands,30,193,92,Liverpool,Right
+11,H. Kane,89,89,105500000,ST,England,28,188,89,Tottenham Hotspur,Right
+12,Neymar Jr,89,89,99500000,LW,Brazil,30,175,68,Paris Saint-Germain,Right
+13,H. Son,89,89,101000000,LW,Korea Republic,29,183,78,Tottenham Hotspur,Right
+14,Casemiro,89,89,86000000,CDM,Brazil,30,185,84,Manchester United,Right
+15,J. Oblak,89,91,85500000,GK,Slovenia,29,188,87,Atlético de Madrid,Right
+16,S. Mané,89,89,99500000,LM,Senegal,30,174,69,FC Bayern München,Right
+17,Ederson,89,91,88000000,GK,Brazil,28,188,86,Manchester City,Left
+18,J. Kimmich,89,90,105500000,CDM,Germany,27,177,75,FC Bayern München,Right
+19,Alisson,89,90,79000000,GK,Brazil,29,191,91,Liverpool,Right
+20,N. Kanté,89,89,72000000,CDM,France,31,168,70,Chelsea,Right
+21,Rúben Dias,88,91,107500000,CB,Portugal,25,187,82,Manchester City,Right
+22,E. Haaland,88,94,148000000,ST,Norway,21,195,94,Manchester City,Left
+23,G. Donnarumma,88,92,103500000,GK,Italy,23,196,90,Paris Saint-Germain,Right
+24,Bernardo Silva,88,88,97500000,CAM,Portugal,27,173,64,Manchester City,Left
+25,João Cancelo,88,88,82500000,LB,Portugal,28,182,74,Manchester City,Right
+26,Marquinhos,88,90,92000000,CB,Brazil,28,183,75,Paris Saint-Germain,Right
+27,K. Navas,88,88,10000000,GK,Costa Rica,35,185,80,Paris Saint-Germain,Right
+28,M. ter Stegen,88,89,68500000,GK,Germany,30,187,85,FC Barcelona,Right
+29,T. Kroos,88,88,72000000,CM,Germany,32,183,76,Real Madrid CF,Right
+30,L. Modric,88,88,29000000,CM,Croatia,36,172,66,Real Madrid CF,Right
+31,A. Rüdiger,87,88,73500000,CB,Germany,29,190,85,Real Madrid CF,Right
+32,Rodri,87,89,88500000,CDM,Spain,26,191,82,Manchester City,Right
+33,Fabinho,87,88,77000000,CDM,Brazil,28,188,78,Liverpool,Right
+34,H. Lloris,87,87,9000000,GK,France,35,188,82,Tottenham Hotspur,Left
+35,T. Müller,87,87,63000000,CAM,Germany,32,185,76,FC Bayern München,Right
+36,De Gea,87,87,42000000,GK,Spain,31,192,76,Manchester United,Right
+37,M. Verratti,87,87,77500000,CM,Italy,29,165,60,Paris Saint-Germain,Right
+38,M. Maignan,87,90,80000000,GK,France,26,191,89,AC Milan,Right
+39,T. Alexander-Arnold,87,90,100500000,CM,England,23,180,69,Liverpool,Right
+40,A. Robertson,87,87,72000000,LB,Scotland,28,178,64,Liverpool,Left
+41,K. Koulibaly,87,87,54500000,CB,Senegal,31,187,89,Chelsea,Right
+42,L. Goretzka,87,88,91000000,CM,Germany,27,189,82,FC Bayern München,Right
+43,F. de Jong,87,92,116500000,CM,Netherlands,25,180,74,FC Barcelona,Right
+44,Thiago,86,86,55500000,CM,Spain,31,174,70,Liverpool,Right
+45,C. Immobile,86,86,55000000,ST,Italy,32,185,85,Lazio,Right
+46,R. Lukaku,86,86,68000000,ST,Belgium,29,191,94,Inter,Left
+47,D. Alaba,86,86,55500000,CB,Austria,30,180,78,Real Madrid CF,Left
+48,R. Sterling,86,86,72500000,LW,England,27,170,69,Chelsea,Right
+49,R. Mahrez,86,86,56500000,RW,Algeria,31,179,67,Manchester City,Left
+50,P. Dybala,86,86,69500000,CAM,Argentina,28,177,75,Roma,Left
+51,Thiago Silva,86,86,12000000,CB,Brazil,37,183,79,Chelsea,Right
+52,W. Szczesny,86,86,33500000,GK,Poland,32,195,90,Juventus,Right
+53,K. Trapp,86,86,36000000,GK,Germany,31,189,84,Eintracht Frankfurt,Right
+54,Bruno Fernandes,86,86,72500000,CAM,Portugal,27,179,69,Manchester United,Right
+55,Parejo,86,86,42000000,CM,Spain,33,182,74,Villarreal CF,Right
+56,A. Laporte,86,87,64500000,CB,Spain,28,191,85,Manchester City,Left
+57,K. Coman,86,87,80000000,LM,France,26,179,75,FC Bayern München,Right
+58,M. Brozovic,86,86,58000000,CDM,Croatia,29,181,68,Inter,Right
+59,N. Barella,86,89,89500000,CM,Italy,25,172,68,Inter,Right
+60,L. Martínez,86,90,98500000,ST,Argentina,24,174,72,Inter,Right
+61,M. ?kriniar,86,87,68500000,CB,Slovakia,27,188,80,Inter,Right
+62,C. Nkunku,86,89,94000000,CAM,France,24,175,73,RB Leipzig,Right
+63,É. Mendy,86,87,51000000,GK,Senegal,30,197,86,Chelsea,Right
+64,Vinícius Jr.,86,92,109000000,LW,Brazil,21,176,73,Real Madrid CF,Right
+65,S. Milinkovic-Savic,86,87,77500000,CM,Serbia,27,191,76,Lazio,Right
+66,N. Süle,85,87,59000000,CB,Germany,26,195,99,Borussia Dortmund,Right
+67,N. Fekir,85,85,54500000,CAM,France,28,173,75,Real Betis Balompié,Left
+68,S. Gnabry,85,85,59000000,RM,Germany,26,176,77,FC Bayern München,Right
+69,I. Gündogan,85,85,44000000,CM,Germany,31,180,80,Manchester City,Right
+70,K. Walker,85,85,37500000,RB,England,32,183,83,Manchester City,Right
+71,P. Aubameyang,85,85,34500000,ST,Gabon,33,187,80,Chelsea,Right
+72,Jordi Alba,85,85,28000000,LB,Spain,33,170,68,FC Barcelona,Left
+73,Sergio Busquets,85,85,26500000,CDM,Spain,33,189,76,FC Barcelona,Right
+74,Iago Aspas,85,85,26000000,ST,Spain,34,176,67,RC Celta de Vigo,Left
+75,P. Pogba,85,85,52500000,CM,France,29,191,84,Juventus,Right
+76,M. Depay,85,85,55000000,CF,Netherlands,28,176,78,FC Barcelona,Right
+77,Jorginho,85,85,51500000,CM,Italy,30,180,68,Chelsea,Right
+78,M. Acuña,85,85,46500000,LB,Argentina,30,172,69,Sevilla FC,Left
+79,Gerard Moreno,85,85,53000000,ST,Spain,30,180,77,Villarreal CF,Left
+80,Y. Carrasco,85,85,54500000,LM,Belgium,28,181,73,Atlético de Madrid,Right
+81,F. Kostic,85,85,53000000,LM,Serbia,29,184,84,Juventus,Left
+82,J. Vardy,85,85,23000000,ST,England,35,179,74,Leicester City,Right
+83,Pedri,85,93,116000000,CM,Spain,19,174,61,FC Barcelona,Right
+84,P. Foden,85,92,109500000,CAM,England,22,171,69,Manchester City,Left
+85,M. de Ligt,85,89,71000000,CB,Netherlands,22,189,89,FC Bayern München,Right
+86,P. Schick,85,87,67500000,ST,Czech Republic,26,191,86,Bayer 04 Leverkusen,Left
+87,T. Hernández,85,90,76000000,LWB,France,24,184,81,AC Milan,Left
+88,Diogo Jota,85,89,76000000,ST,Portugal,25,178,73,Liverpool,Right
+89,P. Gulácsi,85,85,26500000,GK,Hungary,32,191,86,RB Leipzig,Right
+90,Y. Sommer,85,85,17500000,GK,Switzerland,33,183,79,Borussia Mönchengladbach,Right
+91,M. Reus,85,85,33500000,CAM,Germany,33,180,71,Borussia Dortmund,Right
+92,L. Hernández,84,86,46000000,CB,France,26,184,79,FC Bayern München,Left
+93,Sergio Ramos,84,84,7500000,CB,Spain,36,184,82,Paris Saint-Germain,Right
+94,A. Gómez,84,84,20000000,CAM,Argentina,34,167,68,Sevilla FC,Right
+95,S. Handanovic,84,84,4700000,GK,Slovenia,37,193,92,Inter,Right
+96,D. Mertens,84,84,18000000,CF,Belgium,35,169,61,Galatasaray SK,Right
+97,L. Suárez,84,84,18000000,ST,Uruguay,35,182,86,Club Nacional de Football,Right
+98,D. Tadic,84,84,26500000,LW,Serbia,33,181,76,Ajax,Left
+99,D. Berardi,84,84,45000000,RM,Italy,27,183,72,U.S. Sassuolo Calcio,Left
+100,T. Partey,84,84,36000000,CDM,Ghana,29,185,77,Arsenal,Right
+101,Y. Bounou,84,84,22500000,GK,Morocco,31,192,78,Sevilla FC,Left
+102,H. Çalhanoglu,84,84,42000000,CM,Turkey,28,178,76,Inter,Right
+103,M. Kovacic,84,84,42000000,CM,Croatia,28,176,80,Chelsea,Right
+104,J. Grealish,84,84,46000000,LW,England,26,180,81,Manchester City,Right
+105,Carvajal,84,84,36500000,RB,Spain,30,173,73,Real Madrid CF,Right
+106,S. Savic,84,84,29000000,CB,Montenegro,31,187,80,Atlético de Madrid,Right
+107,E. Martínez,84,84,29000000,GK,Argentina,29,195,88,Aston Villa,Right
+108,R. Varane,84,85,39000000,CB,France,29,191,81,Manchester United,Right
+109,W. Ben Yedder,84,84,35500000,CF,France,31,170,68,AS Monaco,Right
+110,L. Insigne,84,84,35000000,CAM,Italy,31,163,59,Toronto FC,Right
+111,M. Hummels,84,84,20000000,CB,Germany,33,191,94,Borussia Dortmund,Right
+112,S. de Vrij,84,84,34500000,CB,Netherlands,30,189,78,Inter,Right
+113,J. Matip,84,84,34500000,CB,Cameroon,30,194,90,Liverpool,Right
+114,K. Casteels,84,85,31500000,GK,Belgium,30,197,86,VfL Wolfsburg,Left
+115,Canales,84,84,35000000,RM,Spain,31,176,65,Real Betis Balompié,Left
+116,Muniain,84,84,41500000,LM,Spain,29,170,66,Athletic Club de Bilbao,Right
+117,K. Trippier,84,84,30500000,RB,England,31,173,71,Newcastle United,Right
+118,L. Bonucci,84,84,11000000,CB,Italy,35,190,85,Juventus,Right
+119,Á. Di María,84,84,20000000,RW,Argentina,34,180,69,Juventus,Left
+120,E. Hazard,84,84,35000000,LW,Belgium,31,175,74,Real Madrid CF,Right
+121,I. Peri?ic,84,84,26500000,LM,Croatia,33,186,80,Tottenham Hotspur,Right
+122,E. D?eko,84,84,14500000,ST,Bosnia and Herzegovina,36,193,80,Inter,Right
+123,G. Chiellini,84,84,7500000,CB,Italy,37,187,85,Los Angeles FC,Left
+124,R. De Paul,84,84,42000000,CM,Argentina,28,180,70,Atlético de Madrid,Right
+125,J. Bellingham,84,91,81500000,CM,England,19,186,75,Borussia Dortmund,Right
+126,F. Chiesa,84,90,66500000,RM,Italy,24,175,70,Juventus,Right
+127,M. Diaby,84,88,61500000,RM,France,22,171,67,Bayer 04 Leverkusen,Left
+128,J. Tartt,84,91,85500000,CAM,England,24,178,84,AFC Richmond,Right
+129,Rafael Leão,84,90,66500000,LW,Portugal,23,188,81,AC Milan,Right
+130,J. Koundé,84,89,57500000,CB,France,23,181,75,FC Barcelona,Right
+131,Y. Tielemans,84,86,52500000,CM,Belgium,25,176,72,Leicester City,Right
+132,S. Tonali,84,90,62500000,CDM,Italy,22,181,79,AC Milan,Right
+133,L. Díaz,84,87,56000000,RM,Colombia,25,180,73,Liverpool,Right
+134,Éder Militão,84,89,57500000,CB,Brazil,24,186,78,Real Madrid CF,Right
+135,F. Valverde,84,90,66000000,CM,Uruguay,23,182,78,Real Madrid CF,Right
+136,L. Sané,84,85,49500000,LM,Germany,26,183,80,FC Bayern München,Left
+137,R. James,84,88,57000000,RWB,England,22,178,87,Chelsea,Right
+138,A. Bastoni,84,90,60500000,CB,Italy,23,190,75,Inter,Left
+139,K. Havertz,84,91,84500000,CAM,Germany,23,189,82,Chelsea,Left
+140,João Félix,84,90,68500000,CAM,Portugal,22,181,72,Atlético de Madrid,Right
+141,A. Hakimi,84,87,53500000,RB,Morocco,23,181,73,Paris Saint-Germain,Right
+142,A. Davies,84,89,60500000,LM,Canada,21,185,77,FC Bayern München,Left
+143,D. Rice,84,87,52000000,CDM,England,23,185,80,West Ham United,Right
+144,M. Mount,84,87,57500000,CAM,England,23,180,74,Chelsea,Right
+145,J. Sancho,84,88,61500000,CAM,England,22,180,76,Manchester United,Right
+146,F. Tomori,84,90,60500000,CB,England,24,185,79,AC Milan,Right
+147,F. Kessié,84,86,47500000,CDM,Côte d'Ivoire,25,183,88,FC Barcelona,Right
+148,Oyarzabal,84,86,53000000,LW,Spain,25,181,79,Real Sociedad,Left
+149,L. Pellegrini,84,87,55000000,CAM,Italy,26,186,77,Roma,Right
+150,W. Ndidi,84,86,47500000,CB,Nigeria,25,183,74,Leicester City,Right
+151,Marcos Llorente,84,85,48000000,CAM,Spain,27,184,74,Atlético de Madrid,Right
+152,M. Ødegaard,84,89,63500000,CAM,Norway,23,178,68,Arsenal,Left
+153,D. Vlahovic,84,91,86500000,ST,Serbia,22,190,75,Juventus,Left
+154,Diego Carlos,83,83,30500000,CB,Brazil,29,186,79,Aston Villa,Right
+155,Angeliño,83,85,42000000,LM,Spain,25,171,69,TSG Hoffenheim,Left
+156,O. Dembélé,83,86,48000000,LM,France,25,178,67,FC Barcelona,Left
+157,Marco Asensio,83,84,43000000,RW,Spain,26,182,76,Real Madrid CF,Left
+158,Rúben Neves,83,86,47500000,CM,Portugal,25,180,80,Wolverhampton Wanderers,Right
+159,Merino,83,86,47000000,CM,Spain,26,189,83,Real Sociedad,Left
+160,K. Laimer,83,84,38500000,CDM,Austria,25,180,72,RB Leipzig,Right
+161,P. Kimpembe,83,86,42000000,CB,France,26,189,80,Paris Saint-Germain,Left
+162,Fabián,83,85,44500000,CM,Spain,26,189,70,Paris Saint-Germain,Left
+163,F. Mendy,83,84,38000000,LB,France,27,180,73,Real Madrid CF,Left
+164,Ronaldo Cabrais,83,83,35000000,RM,Brazil,30,177,75,Palmeiras,Right
+165,Gabriel Jesus,83,86,48500000,ST,Brazil,25,175,73,Arsenal,Right
+166,Unai Simón,83,86,37000000,GK,Spain,25,190,89,Athletic Club de Bilbao,Right
+167,V. Osimhen,83,89,58000000,ST,Nigeria,23,185,78,Napoli,Right
+168,P. Højbjerg,83,85,40500000,CDM,Denmark,26,187,84,Tottenham Hotspur,Right
+169,C. Romero,83,88,49500000,CB,Argentina,24,185,79,Tottenham Hotspur,Right
+170,Raphinha,83,86,48000000,LM,Brazil,25,176,68,FC Barcelona,Left
+171,Carlos Soler,83,88,53000000,CM,Spain,25,180,76,Paris Saint-Germain,Right
+172,G. Kobel,83,88,44000000,GK,Switzerland,24,195,88,Borussia Dortmund,Right
+173,Pau Torres,83,89,50500000,CB,Spain,25,191,80,Villarreal CF,Left
+174,C. Gakpo,83,87,52000000,RM,Netherlands,23,189,76,PSV,Right
+175,R. Araujo,83,89,52000000,CB,Uruguay,23,192,91,FC Barcelona,Right
+176,R. Kent,83,83,0,CDM,England,40,182,82,AFC Richmond,Left
+177,D. Zapata,83,83,30500000,ST,Colombia,31,189,88,Atalanta,Right
+178,Á. Correa,83,84,42500000,CF,Argentina,27,171,70,Atlético de Madrid,Right
+179,J. Giménez,83,85,38500000,CB,Uruguay,27,185,79,Atlético de Madrid,Right
+180,T. Lemar,83,86,47000000,CAM,France,26,171,66,Atlético de Madrid,Left
+181,Bremer,83,87,45500000,CB,Brazil,25,188,82,Juventus,Right
+182,J. Cuadrado,83,83,13500000,RB,Colombia,34,179,72,Juventus,Right
+183,P. Zielinski,83,83,36500000,CAM,Poland,28,180,75,Napoli,Right
+184,Jesús Navas,83,83,8000000,RB,Spain,36,172,60,Sevilla FC,Right
+185,Piqué,83,83,9500000,CB,Spain,35,194,85,FC Barcelona,Right
+186,K. Schmeichel,83,83,4000000,GK,Denmark,35,189,89,OGC Nice,Right
+187,J. Henderson,83,83,28500000,CM,England,32,182,80,Liverpool,Right
+188,Fernando,83,83,12500000,CDM,Brazil,34,183,76,Sevilla FC,Right
+189,L. Hrádecký,83,83,18000000,GK,Finland,32,192,85,Bayer 04 Leverkusen,Right
+190,David Silva,83,83,12000000,CAM,Spain,36,173,67,Real Sociedad,Left
+191,O. Baumann,83,83,18000000,GK,Germany,32,187,82,TSG Hoffenheim,Right
+192,A. Griezmann,83,83,30500000,CAM,France,31,176,73,Atlético de Madrid,Left
+193,Luis Alberto,83,83,35500000,CM,Spain,29,183,74,Lazio,Right
+194,Roberto Firmino,83,83,35500000,CF,Brazil,30,181,76,Liverpool,Right
+195,J. Stones,83,84,34500000,CB,England,28,188,76,Manchester City,Right
+196,H. Ziyech,83,83,35500000,RW,Morocco,29,181,65,Chelsea,Left
+197,Koke,83,83,34500000,CM,Spain,30,176,75,Atlético de Madrid,Right
+198,Ricardo Pereira,83,83,33000000,RB,Portugal,28,175,70,Leicester City,Right
+199,J. Maddison,82,84,38000000,CAM,England,25,175,73,Leicester City,Right
+200,G. Rulli,82,82,20500000,GK,Argentina,30,189,84,Villarreal CF,Right
+201,A. Kramaric,82,82,25500000,CF,Croatia,31,177,73,TSG Hoffenheim,Right
+202,Rafa,82,82,30000000,RW,Portugal,29,172,66,SL Benfica,Right
+203,G. Di Lorenzo,82,82,27500000,RB,Italy,28,183,83,Napoli,Right
+204,David Soria,82,82,21000000,GK,Spain,29,192,85,Getafe CF,Right
+205,M. Locatelli,82,86,40000000,CM,Italy,24,185,75,Juventus,Right
+206,R. Gosens,82,82,29500000,LWB,Germany,27,183,76,Inter,Left
+207,Gonçalo Guedes,82,85,41000000,ST,Portugal,25,179,68,Wolverhampton Wanderers,Right
+208,J. Tah,82,84,33500000,CB,Germany,26,195,94,Bayer 04 Leverkusen,Right
+209,A. Christensen,82,86,37500000,CB,Denmark,26,188,81,FC Barcelona,Right
+210,E. Can,82,82,30500000,CB,Germany,28,186,86,Borussia Dortmund,Right
+211,Anderson Talisca,82,82,31000000,CF,Brazil,28,190,80,Al Nassr,Left
+212,J. Brandt,82,85,40000000,CAM,Germany,26,185,83,Borussia Dortmund,Right
+213,T. Werner,82,84,38000000,ST,Germany,26,180,76,RB Leipzig,Right
+214,Gayà,82,83,32000000,LB,Spain,27,172,66,Valencia CF,Left
+215,Otávio,82,82,32500000,RM,Portugal,27,171,67,FC Porto,Right
+216,Grimaldo,82,83,33000000,LB,Spain,26,172,67,SL Benfica,Left
+217,R. Guerreiro,82,82,27500000,CAM,Portugal,28,170,71,Borussia Dortmund,Left
+218,A. Onana,82,85,30500000,GK,Cameroon,26,190,93,Inter,Right
+219,M. Ginter,82,83,29000000,CB,Germany,28,191,86,Sport-Club Freiburg,Right
+220,S. Haller,82,82,31000000,ST,Côte d'Ivoire,28,190,82,Borussia Dortmund,Right
+221,Aritz Elustondo,82,83,29000000,CB,Spain,28,180,71,Real Sociedad,Right
+222,T. Abraham,82,85,42000000,ST,England,24,195,86,Roma,Right
+223,I. Bennacer,82,86,40000000,CM,Algeria,24,175,70,AC Milan,Left
+224,Álex Remiro,82,84,28000000,GK,Spain,27,192,79,Real Sociedad,Right
+225,D. Rojas,82,83,36500000,ST,Mexico,26,183,75,AFC Richmond,Right
+226,F. Wirtz,82,91,66000000,CAM,Germany,19,176,72,Bayer 04 Leverkusen,Right
+227,Antony,82,88,49000000,LM,Brazil,22,174,63,Manchester United,Left
+228,D. Núñez,82,89,61500000,ST,Uruguay,23,186,80,Liverpool,Right
+229,N. Schlotterbeck,82,88,44500000,CB,Germany,22,191,86,Borussia Dortmund,Left
+230,B. Saka,82,89,60500000,LM,England,20,178,65,Arsenal,Left
+231,Dani Olmo,82,87,46000000,CAM,Spain,24,179,72,RB Leipzig,Right
+232,A. Tchouaméni,82,89,61500000,CDM,France,22,187,81,Real Madrid CF,Right
+233,Ferran Torres,82,88,49000000,LW,Spain,22,184,77,FC Barcelona,Right
+234,N. Mazraoui,82,86,40500000,RM,Morocco,24,183,65,FC Bayern München,Right
+235,A. Danjuma,82,83,36500000,LM,Netherlands,25,178,74,Villarreal CF,Right
+236,A. Ramsdale,82,86,34500000,GK,England,24,191,77,Arsenal,Right
+237,Lucas Paquetá,82,87,46000000,CAM,Brazil,24,180,72,West Ham United,Left
+238,D. Dumfries,82,84,34500000,RWB,Netherlands,26,188,80,Inter,Right
+239,R. Malinovskyi,82,82,30500000,CF,Ukraine,29,181,79,Atalanta,Left
+240,R. Jiménez,82,82,25500000,ST,Mexico,31,188,81,Wolverhampton Wanderers,Right
+241,Josué Chiamulera,82,82,25000000,CB,Brazil,30,185,80,Club Athletico Paranaense,Right
+242,Lucas Mantela,82,82,27000000,GK,Brazil,22,183,77,Palmeiras,Right
+243,B. Chilwell,82,85,37000000,LWB,England,25,180,77,Chelsea,Left
+244,André Silva,82,84,38000000,ST,Portugal,26,185,84,RB Leipzig,Right
+245,C. Pulisic,82,88,48000000,RM,United States,23,177,69,Chelsea,Right
+246,J. Pickford,82,84,26000000,GK,England,28,185,77,Everton,Left
+247,Sergi Darder,82,82,30500000,CM,Spain,28,180,71,RCD Espanyol de Barcelona,Right
+248,W. Orban,82,82,25500000,CB,Hungary,29,186,87,RB Leipzig,Right
+249,I. Gueye,82,82,20500000,CDM,Senegal,32,174,66,Everton,Right
+250,Z. Ibrahimovic,82,82,0,ST,Sweden,40,195,102,AC Milan,Right
+251,Iñigo Martínez,82,82,21000000,CB,Spain,31,182,77,Athletic Club de Bilbao,Left
+252,L. Fabianski,82,82,3400000,GK,Poland,37,190,83,West Ham United,Right
+253,I. Rakitic,82,82,14000000,CM,Croatia,34,184,78,Sevilla FC,Right
+254,D. Payet,82,82,12500000,CAM,France,35,175,77,Olympique de Marseille,Right
+255,Rui Patrício,82,82,5000000,GK,Portugal,34,190,84,Roma,Left
+256,O. Giroud,82,82,13000000,ST,France,35,192,93,AC Milan,Left
+257,S. Kjær,82,82,14500000,CB,Denmark,33,190,86,AC Milan,Right
+258,Yuri Berchiche,82,82,21000000,LB,Spain,32,181,80,Athletic Club de Bilbao,Left
+259,T. Alderweireld,82,82,14500000,CB,Belgium,33,186,81,Royal Antwerp FC,Right
+260,M. Arnautovic,82,82,19500000,ST,Austria,33,192,83,Bologna,Right
+261,Azpilicueta,82,82,20000000,CB,Spain,32,178,77,Chelsea,Right
+262,Coutinho,82,82,29500000,CAM,Brazil,30,172,68,Aston Villa,Right
+263,C. Eriksen,82,82,29000000,CM,Denmark,30,181,76,Manchester United,Right
+264,Raúl Albiol,82,82,5500000,CB,Spain,36,190,82,Villarreal CF,Right
+265,S. Coates,82,82,21000000,CB,Uruguay,31,196,94,Sporting CP,Right
+266,L. Digne,82,82,27500000,LB,France,28,178,74,Aston Villa,Left
+267,Isco,82,82,29500000,CAM,Spain,30,176,79,Sevilla FC,Right
+268,G. Kondogbia,82,82,29500000,CDM,Central African Republic,29,188,76,Atlético de Madrid,Left
+269,Gabriel Paulista,82,82,21000000,CB,Brazil,31,185,72,Valencia CF,Right
+270,Nacho Fernández,82,82,20000000,CB,Spain,32,180,76,Real Madrid CF,Right
+271,K. Volland,82,82,30500000,ST,Germany,29,179,85,AS Monaco,Left
+272,L. Spinazzola,82,82,27000000,LWB,Italy,29,186,75,Roma,Right
+273,S. Berghuis,82,82,29500000,CAM,Netherlands,30,182,75,Ajax,Left
+274,A. Lopes,82,82,16000000,GK,Portugal,31,184,81,Olympique Lyonnais,Left
+275,L. Muriel,82,82,25500000,ST,Colombia,31,179,79,Atalanta,Right
+276,W. Zaha,82,82,30000000,LW,Côte d'Ivoire,29,180,66,Crystal Palace,Right
+277,F. Acerbi,82,82,10000000,CB,Italy,34,192,88,Inter,Left
+278,E. Ndicka,81,85,34000000,CB,France,22,192,82,Eintracht Frankfurt,Left
+279,T. Soucek,81,83,28000000,CB,Czech Republic,27,192,86,West Ham United,Right
+280,A. Barák,81,82,30000000,CAM,Czech Republic,27,190,86,Fiorentina,Left
+281,M. Terrier,81,84,34000000,ST,France,25,184,78,Stade Rennais FC,Right
+282,D. Raum,81,85,34500000,LWB,Germany,24,180,75,RB Leipzig,Left
+283,Y. Bissouma,81,86,34500000,CDM,Mali,25,182,80,Tottenham Hotspur,Right
+284,A. Areola,81,82,20000000,GK,France,29,195,94,West Ham United,Right
+285,I. Sangaré,81,86,35500000,CDM,Côte d'Ivoire,24,191,77,PSV,Right
+286,J. Corona,81,81,25500000,RW,Mexico,29,173,66,Sevilla FC,Right
+287,T. Delaney,81,81,21500000,CDM,Denmark,30,182,79,Sevilla FC,Left
+288,A. Lacazette,81,81,22000000,ST,France,31,175,73,Olympique Lyonnais,Right
+289,N. Zaniolo,81,88,53000000,CAM,Italy,22,190,75,Roma,Left
+290,Neto,81,81,13000000,GK,Brazil,32,190,84,AFC Bournemouth,Right
+291,I. Konaté,81,88,48000000,CB,France,23,194,95,Liverpool,Right
+292,Pedro Porro,81,87,38500000,RWB,Spain,22,173,69,Sporting CP,Right
+293,Cucurella,81,85,34500000,LWB,Spain,23,172,66,Chelsea,Left
+294,L. Martínez,81,86,35000000,CDM,Argentina,24,178,77,Manchester United,Left
+295,Matheus Cunha,81,86,39500000,CAM,Brazil,23,184,75,Atlético de Madrid,Right
+296,Pedro Gonçalves,81,86,39000000,CAM,Portugal,24,173,77,Sporting CP,Right
+297,M. Taremi,81,81,25500000,ST,Iran,29,186,83,FC Porto,Right
+298,Rodrygo,81,88,52500000,RM,Brazil,21,174,64,Real Madrid CF,Right
+299,E. Tapsoba,81,86,35000000,CB,Burkina Faso,23,192,84,Bayer 04 Leverkusen,Right
+300,D. Kulusevski,81,87,41500000,CAM,Sweden,22,186,75,Tottenham Hotspur,Left
+301,Bruno Guimarães,81,86,38500000,CM,Brazil,24,182,74,Newcastle United,Right
+302,J. Gvardiol,81,89,53000000,CB,Croatia,20,185,80,RB Leipzig,Left
+303,J. Musiala,81,90,55500000,CAM,Germany,19,183,70,FC Bayern München,Right
+304,S. Obisanya,81,88,52500000,RM,Nigeria,22,185,77,AFC Richmond,Right
+305,Pablo Sarabia,81,81,25000000,RW,Spain,30,174,70,Paris Saint-Germain,Left
+306,Marc Bartra,81,81,17500000,CB,Spain,31,184,73,Trabzonspor,Right
+307,Felipe,81,81,12500000,CB,Brazil,33,190,84,Atlético de Madrid,Right
+308,H. Maguire,81,82,24000000,CB,England,29,194,100,Manchester United,Right
+309,Heberto Gaúcho,81,81,24500000,CB,Brazil,26,181,82,Clube Atlético Mineiro,Right
+310,Oswaldinato,81,81,25500000,ST,Brazil,30,184,79,Flamengo,Right
+311,Nailton Padrenda,81,81,28000000,CAM,Brazil,26,180,75,Clube Atlético Mineiro,Right
+312,Welington Dano,81,81,27500000,LB,Brazil,22,178,69,Clube Atlético Mineiro,Left
+313,Adriano Bisesi,81,81,25500000,ST,Brazil,30,188,83,RB Bragantino,Right
+314,Rosival Dourado,81,81,27000000,CDM,Brazil,22,175,70,Sport Club Corinthians Paulista,Right
+315,Adryan Zonta,81,81,22000000,LWB,Brazil,30,172,68,RB Bragantino,Left
+316,G. Mancini,81,83,28000000,CB,Italy,26,190,77,Roma,Right
+317,G. Rodríguez,81,82,26500000,CDM,Argentina,27,185,80,Real Betis Balompié,Right
+318,D. Upamecano,81,87,37000000,CB,France,23,186,90,FC Bayern München,Right
+319,Palhinha,81,83,28500000,CB,Portugal,26,190,85,Fulham,Right
+320,D. Zakaria,81,86,34500000,CDM,Switzerland,25,191,81,Chelsea,Right
+321,M. Akanji,81,82,26500000,CB,Switzerland,26,187,91,Manchester City,Right
+322,A. Zambo Anguissa,81,83,28500000,CDM,Cameroon,26,184,78,Napoli,Right
+323,K. Tierney,81,85,33000000,LWB,Scotland,25,178,70,Arsenal,Left
+324,M. Rashford,81,85,37000000,ST,England,24,186,70,Manchester United,Right
+325,Richarlison,81,84,34500000,ST,Brazil,25,181,71,Tottenham Hotspur,Right
+326,Gabriel,81,87,37000000,CB,Brazil,24,190,87,Arsenal,Left
+327,H. Mkhitaryan,81,81,16000000,CAM,Armenia,33,177,75,Inter,Right
+328,N. Otamendi,81,81,8500000,CB,Argentina,34,182,78,SL Benfica,Right
+329,M. Götze,81,81,25000000,CAM,Germany,30,176,72,Eintracht Frankfurt,Right
+330,C. Smalling,81,81,16500000,CB,England,32,194,81,Roma,Right
+331,N. Pope,81,81,17000000,GK,England,30,199,76,Newcastle United,Right
+332,Rafael Tolói,81,81,17500000,CB,Italy,31,185,75,Atalanta,Right
+333,E. Cavani,81,81,11000000,ST,Uruguay,35,185,77,Valencia CF,Right
+334,É. Banega,81,81,12000000,CM,Argentina,34,176,78,Al Shabab,Right
+335,Adán,81,81,2900000,GK,Spain,35,190,94,Sporting CP,Left
+336,G. Bale,81,81,20500000,ST,Wales,32,185,82,Los Angeles FC,Left
+337,J. Vertonghen,81,81,7000000,CB,Belgium,35,191,89,RSC Anderlecht,Left
+338,C. Vela,81,81,16000000,RW,Mexico,33,177,77,Los Angeles FC,Left
+339,João Moutinho,81,81,10500000,CM,Portugal,35,170,61,Wolverhampton Wanderers,Right
+340,Pepe,81,81,4600000,CB,Portugal,39,187,79,FC Porto,Right
+341,G. Lo Celso,81,83,31500000,CAM,Argentina,26,177,68,Villarreal CF,Left
+342,Oscar,81,81,25000000,CAM,Brazil,30,179,70,Shanghai Port FC,Right
+343,J. Gomez,81,86,34000000,CB,England,25,188,77,Liverpool,Right
+344,José Sá,81,82,20000000,GK,Portugal,29,192,84,Wolverhampton Wanderers,Right
+345,Borja Iglesias,81,81,25500000,ST,Spain,29,187,86,Real Betis Balompié,Right
+346,J. Ward-Prowse,81,82,29500000,CM,England,27,173,66,Southampton,Right
+347,L. Ocampos,81,81,27500000,RW,Argentina,27,188,84,Ajax,Right
+348,E. Vi?ca,81,81,20500000,RM,Bosnia and Herzegovina,32,172,63,Trabzonspor,Right
+349,T. Savanier,81,81,25000000,CAM,France,30,172,69,Montpellier Hérault SC,Right
+350,E. Forsberg,81,81,25000000,CAM,Sweden,30,177,76,RB Leipzig,Right
+351,Lucas Vázquez,81,81,18500000,RB,Spain,31,173,70,Real Madrid CF,Right
+352,G. Laborde,81,81,26500000,ST,France,28,181,78,OGC Nice,Left
+353,J. Hofmann,81,81,25500000,CAM,Germany,29,176,73,Borussia Mönchengladbach,Right
+354,N. Tagliafico,81,81,22500000,LB,Argentina,29,172,65,Olympique Lyonnais,Left
+355,K. Demirbay,81,81,25500000,CM,Germany,28,183,75,Bayer 04 Leverkusen,Left
+356,O. Vlachodimos,81,83,22000000,GK,Greece,28,190,81,SL Benfica,Right
+357,V. Grifo,81,81,25500000,LM,Italy,29,180,76,Sport-Club Freiburg,Right
+358,R. Andrich,81,82,26500000,CDM,Germany,27,186,86,Bayer 04 Leverkusen,Right
+359,R. Le Normand,81,86,34000000,CB,France,25,187,81,Real Sociedad,Right
+360,Ricardo Horta,81,81,28000000,CF,Portugal,27,173,63,SC Braga,Right
+361,S. Lobotka,81,82,29500000,CM,Slovakia,27,170,64,Napoli,Right
+362,K. Phillips,81,85,32000000,CDM,England,26,178,72,Manchester City,Right
+363,M. Uribe,81,81,21000000,CM,Colombia,31,183,77,FC Porto,Right
+364,L. Torreira,81,83,28500000,CDM,Uruguay,26,166,60,Galatasaray SK,Right
+365,M. Pa?alic,81,81,27500000,CAM,Croatia,27,188,82,Atalanta,Right
+366,N. Keïta,81,82,29500000,CAM,Guinea,27,172,64,Liverpool,Right
+367,C. Tolisso,81,81,27500000,CM,France,27,181,81,Olympique Lyonnais,Right
+368,H. Lozano,81,81,28000000,RW,Mexico,26,175,70,Napoli,Right
+369,M. Politano,81,81,26000000,RW,Italy,28,171,67,Napoli,Left
+370,A. Saint-Maximin,81,83,32500000,CAM,France,25,173,67,Newcastle United,Right
+371,S. Fofana,81,81,27500000,CM,Côte d'Ivoire,27,185,74,Racing Club de Lens,Right
+372,Iñaki Williams,81,81,26500000,ST,Ghana,28,186,80,Athletic Club de Bilbao,Right
+373,J. Musso,81,82,20500000,GK,Argentina,28,191,93,Atalanta,Right
+374,B. Bourigeaud,81,81,26000000,RW,France,28,178,70,Stade Rennais FC,Right
+375,Y. En-Nesyri,80,85,31500000,ST,Morocco,25,188,78,Sevilla FC,Left
+376,Javi Galán,80,80,20500000,LB,Spain,27,172,70,RC Celta de Vigo,Left
+377,F. Neuhaus,80,84,29000000,CM,Germany,25,185,77,Borussia Mönchengladbach,Right
+378,H. Barnes,80,83,29000000,CAM,England,24,180,66,Leicester City,Right
+379,A. Isak,80,85,33000000,ST,Sweden,22,192,77,Newcastle United,Right
+380,L. Sinisterra,80,86,33500000,LW,Colombia,23,172,60,Leeds United,Right
+381,X. Schlager,80,84,27500000,CDM,Austria,24,174,78,RB Leipzig,Left
+382,D. Kamada,80,82,26500000,CAM,Japan,25,184,76,Eintracht Frankfurt,Right
+383,M. Arambarri,80,85,28000000,CDM,Uruguay,26,175,74,Getafe CF,Right
+384,A. Lafont,80,85,25500000,GK,France,23,196,90,FC Nantes,Right
+385,Maikel Catarino,80,80,21000000,RB,Brazil,26,177,75,Sport Club Corinthians Paulista,Right
+386,Renato Sanches,80,85,31500000,CAM,Portugal,24,176,70,Paris Saint-Germain,Right
+387,Arthur,80,82,26500000,CM,Brazil,25,171,73,Liverpool,Right
+388,Tony Abranjes,80,80,7000000,CB,Brazil,34,179,80,Internacional,Right
+389,Laure Santeiro,80,80,25000000,CAM,Brazil,22,171,63,Fluminense,Left
+390,Héniton Pires,80,80,16500000,GK,Brazil,26,182,74,Flamengo,Right
+391,M. Guendouzi,80,86,33000000,CDM,France,23,185,68,Olympique de Marseille,Right
+392,L. Bailey,80,83,29000000,CAM,Jamaica,24,178,77,Aston Villa,Left
+393,A. Wan-Bissaka,80,83,26500000,RB,England,24,183,72,Manchester United,Right
+394,D. Sow,80,82,26500000,CM,Switzerland,25,184,76,Eintracht Frankfurt,Right
+395,Mario Hermoso,80,82,22500000,CB,Spain,27,184,76,Atlético de Madrid,Left
+396,D. Calabria,80,83,25500000,RB,Italy,25,177,70,AC Milan,Right
+397,E. Álvarez,80,84,27500000,CB,Mexico,24,187,73,Ajax,Right
+398,T. Koopmeiners,80,84,30000000,CM,Netherlands,24,183,77,Atalanta,Left
+399,B. Kamara,80,86,31000000,CDM,France,22,184,68,Aston Villa,Right
+400,V. Tsygankov,80,85,32000000,CAM,Ukraine,24,178,72,Dynamo Kyiv,Left
+401,M. Dmitrovic,80,81,16000000,GK,Serbia,30,194,94,Sevilla FC,Left
+402,I. McAdoo,80,83,24500000,CB,England,26,184,89,AFC Richmond,Right
+403,J. Frimpong,80,86,31500000,RM,Netherlands,21,171,64,Bayer 04 Leverkusen,Right
+404,Nuno Mendes,80,88,44000000,LB,Portugal,20,176,70,Paris Saint-Germain,Left
+405,S. Botman,80,86,31000000,CB,Netherlands,22,193,81,Newcastle United,Left
+406,J. Timber,80,88,44500000,CB,Netherlands,21,179,77,Ajax,Right
+407,Renan Lodi,80,85,29500000,LWB,Brazil,24,173,68,Nottingham Forest,Left
+408,Reguilón,80,83,25500000,LWB,Spain,25,178,68,Atlético de Madrid,Left
+409,V. Coufal,80,80,18500000,RB,Czech Republic,29,175,76,West Ham United,Right
+410,A. Rrahmani,80,80,18000000,CB,Kosovo,28,192,83,Napoli,Right
+411,S. McTominay,80,83,25000000,CDM,Scotland,25,193,88,Manchester United,Right
+412,L. Majer,80,85,31500000,CAM,Croatia,24,178,76,Stade Rennais FC,Left
+413,W. Saliba,80,87,40000000,CB,France,21,192,85,Arsenal,Right
+414,D. Livakovic,80,83,20500000,GK,Croatia,27,187,79,Dinamo Zagreb,Right
+415,R. Baku,80,84,30000000,RM,Germany,24,176,75,VfL Wolfsburg,Right
+416,N. González,80,85,32000000,LM,Argentina,24,180,72,Fiorentina,Left
+417,E. Smith Rowe,80,87,43000000,CAM,England,21,182,72,Arsenal,Right
+418,J. Clauss,80,80,18500000,RWB,France,29,178,69,Olympique de Marseille,Right
+419,W. McKennie,80,85,31500000,CM,United States,23,183,84,Juventus,Right
+420,N. Milenkovic,80,85,29000000,CB,Serbia,24,195,90,Fiorentina,Right
+421,N. Aguerd,80,83,24500000,CB,Morocco,26,188,76,West Ham United,Left
+422,Nélson Semedo,80,80,19000000,RWB,Portugal,28,177,69,Wolverhampton Wanderers,Right
+423,C. Aránguiz,80,80,10500000,CDM,Chile,33,171,69,Bayer 04 Leverkusen,Right
+424,Lucas Moura,80,80,20500000,RW,Brazil,29,174,70,Tottenham Hotspur,Right
+425,Jonathan Viera,80,80,16500000,CAM,Spain,32,171,67,Unión Deportiva Las Palmas,Right
+426,Danilo,80,80,18000000,RB,Brazil,30,184,78,Juventus,Right
+427,Sergi Roberto,80,80,18000000,RB,Spain,30,178,68,FC Barcelona,Right
+428,Allan,80,80,15000000,CDM,Brazil,31,175,74,Everton,Right
+429,J. Cillessen,80,80,7000000,GK,Netherlands,33,185,83,N.E.C. Nijmegen,Right
+430,H. Vanaken,80,80,20500000,CM,Belgium,29,195,80,Club Brugge KV,Right
+431,S. Ortega,80,80,14500000,GK,Germany,29,185,88,Manchester City,Right
+432,Danilo Pereira,80,80,17500000,CDM,Portugal,30,188,83,Paris Saint-Germain,Right
+433,Morata,80,80,21000000,ST,Spain,29,190,84,Atlético de Madrid,Right
+434,L. Shaw,80,81,22500000,LB,England,26,181,75,Manchester United,Left
+435,C. Biraghi,80,80,18500000,LB,Italy,29,185,78,Fiorentina,Left
+436,E. Dier,80,81,20000000,CB,England,28,188,90,Tottenham Hotspur,Right
+437,Deulofeu,80,80,21500000,RW,Spain,28,177,73,Udinese Calcio,Right
+438,T. Hazard,80,80,20500000,LM,Belgium,29,175,71,Borussia Dortmund,Right
+439,T. Vaclík,80,80,0,GK,Czech Republic,33,188,85,Free agent,Right
+440,Edgar Badia,80,81,16000000,GK,Spain,30,180,70,Elche CF,Right
+441,K. Zouma,80,82,22500000,CB,France,27,190,95,West Ham United,Right
+442,M. Sabitzer,80,80,21000000,CM,Austria,28,178,76,FC Bayern München,Right
+443,K. Kampl,80,80,17500000,CM,Slovenia,31,178,66,RB Leipzig,Right
+444,A. Delort,80,80,20500000,ST,Algeria,30,181,83,OGC Nice,Right
+445,B. Leno,80,80,14000000,GK,Germany,30,190,83,Fulham,Right
+446,Alex Sandro,80,80,15500000,LB,Brazil,31,180,80,Juventus,Left
+447,Yeray,80,82,22500000,CB,Spain,27,182,79,Athletic Club de Bilbao,Right
+448,G. Ochoa,80,80,0,GK,Mexico,36,185,78,Free agent,Right
+449,H. Herrera,80,80,16500000,CM,Mexico,32,185,78,Houston Dynamo,Right
+450,A. Consigli,80,80,2300000,GK,Italy,35,189,82,U.S. Sassuolo Calcio,Right
+451,Raúl García,80,80,9000000,CM,Spain,35,184,83,Athletic Club de Bilbao,Right
+452,José Fonte,80,80,3800000,CB,Portugal,38,191,81,LOSC Lille,Right
+453,M. Ham?ík,80,80,9500000,CM,Slovakia,34,183,73,Trabzonspor,Right
+454,A. Candreva,80,80,8500000,RM,Italy,35,180,70,US Salernitana 1919,Right
+455,S. Mignolet,80,80,3600000,GK,Belgium,34,193,87,Club Brugge KV,Right
+456,Joselu,80,80,17000000,ST,Spain,32,192,80,RCD Espanyol de Barcelona,Right
+457,D. Ospina,80,80,7000000,GK,Colombia,33,183,80,Al Nassr,Right
+458,E. Capoue,80,80,13000000,CM,France,33,190,80,Villarreal CF,Right
+459,G. Wijnaldum,80,80,17500000,CM,Netherlands,31,175,74,Roma,Right
+460,M. Kruse,80,80,10500000,CAM,Germany,34,180,76,VfL Wolfsburg,Left
+461,M. Darmian,80,80,14500000,RWB,Italy,32,182,70,Inter,Right
+462,F. Coquelin,80,80,17500000,CM,France,31,176,74,Villarreal CF,Right
+463,D. Blind,80,80,13500000,CDM,Netherlands,32,180,72,Ajax,Left
+464,A. Cragno,80,81,16500000,GK,Italy,28,184,78,AC Monza,Right
+465,R. Freuler,80,80,20000000,CM,Switzerland,30,181,80,Nottingham Forest,Right
+466,M. Arnold,80,81,20500000,CM,Germany,28,184,74,VfL Wolfsburg,Left
+467,V. Lindelöf,80,81,21000000,CDM,Sweden,27,187,80,Manchester United,Right
+468,Álex Moreno,80,80,18500000,LB,Spain,29,179,68,Real Betis Balompié,Left
+469,M. Dahoud,80,82,26000000,CM,Germany,26,178,68,Borussia Dortmund,Right
+470,J. Ledesma,80,82,17500000,GK,Argentina,29,186,83,Cádiz CF,Right
+471,H. Traoré,80,80,18000000,RB,Mali,30,175,70,Stade Rennais FC,Right
+472,A. Rebic,80,80,21000000,ST,Croatia,28,185,78,AC Milan,Right
+473,H. Hateboer,80,80,19000000,RWB,Netherlands,28,185,72,Atalanta,Right
+474,Kepa,80,83,20500000,GK,Spain,27,186,88,Chelsea,Right
+475,D. Calvert-Lewin,80,84,29500000,ST,England,25,187,71,Everton,Right
+476,L. Klostermann,80,82,23000000,RB,Germany,26,189,88,RB Leipzig,Right
+477,J. Correa,80,80,23000000,RW,Argentina,27,189,75,Inter,Right
+478,R. Karsdorp,80,81,22000000,RWB,Netherlands,27,184,80,Roma,Right
+479,Joan Jordán,80,80,22500000,CM,Spain,27,183,74,Sevilla FC,Right
+480,J. Bowen,80,83,28000000,LM,England,25,175,70,West Ham United,Left
+481,Álex Berenguer,80,80,23000000,RM,Spain,26,175,73,Athletic Club de Bilbao,Right
+482,S. Bergwijn,80,85,32000000,CAM,Netherlands,24,178,78,Ajax,Right
+483,E. Buendía,80,82,26500000,CAM,Argentina,25,172,72,Aston Villa,Right
+484,U. Çakir,80,84,22500000,GK,Turkey,26,191,82,Trabzonspor,Right
+485,G. Scamacca,80,86,33500000,ST,Italy,23,195,85,West Ham United,Right
+486,Morales,80,80,10000000,LM,Spain,34,180,70,Villarreal CF,Right
+487,M. Dúbravka,80,80,7000000,GK,Slovakia,33,190,80,Manchester United,Right
+488,W. Benítez,80,82,17500000,GK,Argentina,29,191,93,PSV,Right
+489,L. Paredes,80,80,18500000,CDM,Argentina,28,180,75,Juventus,Right
+490,S. Azmoun,80,81,24500000,ST,Iran,27,186,82,Bayer 04 Leverkusen,Right
+491,William Carvalho,80,80,17500000,CDM,Portugal,30,187,79,Real Betis Balompié,Right
+492,B. Cristante,80,82,23000000,CM,Italy,27,186,80,Roma,Right
+493,Saúl,80,81,24000000,CM,Spain,27,184,75,Atlético de Madrid,Left
+494,M. de Roon,80,80,15000000,CB,Netherlands,31,185,76,Atalanta,Right
+495,A. Belotti,80,80,21500000,ST,Italy,28,181,84,Roma,Right
+496,Fred,80,80,20500000,CM,Brazil,29,169,62,Manchester United,Left
+497,C. Günter,80,80,18500000,LB,Germany,29,184,83,Sport-Club Freiburg,Left
+498,A. Rabiot,80,81,24000000,CM,France,27,192,80,Juventus,Left
+499,Rui Silva,80,82,18000000,GK,Portugal,28,191,91,Real Betis Balompié,Right
+500,A. Romagnoli,80,80,19500000,CB,Italy,27,185,75,Lazio,Left
+501,Carles Gil,80,80,20500000,CAM,Spain,29,170,65,New England Revolution,Left
+502,A. Martial,80,83,28000000,ST,France,26,184,76,Manchester United,Right
+503,M. Dembélé,80,83,28500000,ST,France,25,183,79,Olympique Lyonnais,Right
+504,M. Flekken,80,81,16000000,GK,Netherlands,29,195,87,Sport-Club Freiburg,Right
+505,Alex Telles,80,80,18500000,LB,Brazil,29,181,71,Sevilla FC,Left
+506,A. Gouiri,79,86,36000000,CAM,France,22,181,83,Stade Rennais FC,Right
+507,N. Maksimovic,79,80,20000000,CM,Serbia,27,189,78,Getafe CF,Right
+508,Unai Núñez,79,83,22000000,CB,Spain,25,186,81,RC Celta de Vigo,Right
+509,O. Kökçü,79,86,35500000,CAM,Turkey,21,175,68,Feyenoord,Right
+510,A. Nwakaeme,79,79,11000000,LM,Nigeria,33,185,80,Al Fayha,Right
+511,Luis Milla,79,81,19000000,CDM,Spain,27,175,67,Getafe CF,Right
+512,T. Malacia,79,85,26500000,LWB,Netherlands,22,169,67,Manchester United,Left
+513,J. David,79,85,28500000,ST,Canada,22,180,77,LOSC Lille,Right
+514,C. Gallagher,79,86,35500000,CM,England,22,182,77,Chelsea,Right
+515,A. Sánchez,79,79,11000000,CAM,Chile,33,168,62,Olympique de Marseille,Right
+516,P. Estupiñán,79,83,23500000,LB,Ecuador,24,175,78,Brighton & Hove Albion,Left
+517,J. Foyth,79,84,24500000,CB,Argentina,24,187,69,Villarreal CF,Right
+518,Kim Min Jae,79,84,23000000,CB,Korea Republic,25,190,81,Napoli,Right
+519,D. Szoboszlai,79,87,39500000,CAM,Hungary,21,186,74,RB Leipzig,Right
+520,David Neres,79,82,23000000,CAM,Brazil,25,176,71,SL Benfica,Left
+521,A. Ogbonna,79,79,5500000,CB,Italy,34,191,86,West Ham United,Left
+522,J. Boateng,79,79,8500000,CB,Germany,33,190,94,Olympique Lyonnais,Right
+523,Y. Fofana,79,84,24500000,CDM,France,23,176,69,AS Monaco,Right
+524,L. Stindl,79,79,11000000,CAM,Germany,33,181,80,Borussia Mönchengladbach,Right
+525,Luís Maximiano,79,85,22500000,GK,Portugal,23,190,82,Lazio,Right
+526,Diego López,79,79,1900000,GK,Spain,40,196,89,Rayo Vallecano,Right
+527,R. Gravenberch,79,89,38500000,CAM,Netherlands,20,190,77,FC Bayern München,Right
+528,Ansu Fati,79,90,38000000,CAM,Spain,19,178,66,FC Barcelona,Right
+529,Pedro,79,79,8000000,CAM,Spain,34,169,65,Lazio,Right
+530,G. Goodman,79,79,15500000,LB,England,29,180,70,AFC Richmond,Left
+531,M. Bumbercatch,79,82,23000000,CM,England,25,174,65,AFC Richmond,Right
+532,Gavi,79,88,36000000,CAM,Spain,17,173,68,FC Barcelona,Right
+533,Yeremy Pino,79,87,38000000,CAM,Spain,19,172,60,Villarreal CF,Right
+534,Gonçalo Inácio,79,88,36000000,CB,Portugal,20,185,78,Sporting CP,Left
+535,Vitinha,79,89,39500000,CAM,Portugal,22,172,64,Paris Saint-Germain,Right
+536,Matheus Nunes,79,86,35000000,CAM,Portugal,23,183,76,Wolverhampton Wanderers,Right
+537,G. Raspadori,79,86,36000000,CAM,Italy,22,172,69,Napoli,Right
+538,S. Chukwueze,79,85,27500000,LM,Nigeria,23,172,70,Villarreal CF,Left
+539,A. Musrati,79,83,22000000,CDM,Libya,26,189,83,SC Braga,Right
+540,Beto,79,82,24500000,ST,Portugal,24,194,88,Udinese Calcio,Right
+541,W. Fofana,79,86,33000000,CB,France,21,190,76,Chelsea,Right
+542,E. Camavinga,79,89,38000000,CDM,France,19,182,68,Real Madrid CF,Left
+543,Zubimendi,79,86,35000000,CM,Spain,23,181,74,Real Sociedad,Right
+544,Ibañez,79,83,22500000,CB,Brazil,23,185,73,Roma,Right
+545,M. Caqueret,79,85,26000000,CM,France,22,174,63,Olympique Lyonnais,Right
+546,B. Dia,79,83,24500000,ST,Senegal,25,180,75,US Salernitana 1919,Right
+547,M. Lanzini,79,79,17000000,CAM,Argentina,29,167,59,West Ham United,Right
+548,Guaita,79,79,1900000,GK,Spain,35,190,80,Crystal Palace,Right
+549,A. Talavera,79,79,0,GK,Mexico,39,186,85,Free agent,Right
+550,R. Bentancur,79,83,24500000,CDM,Uruguay,25,187,73,Tottenham Hotspur,Right
+551,G. Montiel,79,81,20000000,RWB,Argentina,25,175,70,Sevilla FC,Right
+552,L. Blas,79,83,25000000,CAM,France,24,180,70,FC Nantes,Left
+553,Matheus Reis,79,82,20000000,CB,Brazil,27,184,80,Sporting CP,Left
+554,Luimo Boas Santos,79,79,21000000,CF,Brazil,22,176,73,Santos,Right
+555,Gabri Prestão,79,79,11500000,GK,Brazil,30,186,80,Internacional,Right
+556,Melvin Parrela,79,79,18500000,CB,Brazil,22,188,88,RB Bragantino,Right
+557,Jorge Andrão,79,79,17000000,CDM,Brazil,26,177,75,Fluminense,Right
+558,Adnan Vidual,79,79,15000000,RB,Brazil,30,175,70,Internacional,Right
+559,Diego Essler,79,79,19000000,LB,Brazil,22,168,65,Clube Atlético Mineiro,Left
+560,Emelvinson,79,79,3000000,GK,Brazil,34,190,85,RB Bragantino,Right
+561,E. Ávila,79,79,18000000,ST,Argentina,28,172,81,CA Osasuna,Right
+562,O. Zinchenko,79,82,21500000,CM,Ukraine,25,175,64,Arsenal,Left
+563,E. Konsa,79,86,32500000,CB,England,24,183,77,Aston Villa,Right
+564,A. Rossi,79,83,19000000,GK,Argentina,26,195,95,Boca Juniors,Right
+565,D. Sánchez,79,80,18000000,CB,Colombia,26,187,81,Tottenham Hotspur,Right
+566,M. Cash,79,84,24500000,RWB,Poland,24,185,74,Aston Villa,Right
+567,B. Pavard,79,81,20000000,CB,France,26,186,81,FC Bayern München,Right
+568,Pablo Fornals,79,81,21500000,CM,Spain,26,178,67,West Ham United,Right
+569,N. Mukiele,79,83,23500000,CB,France,24,187,84,Paris Saint-Germain,Right
+570,N. Pépé,79,79,18500000,LW,Côte d'Ivoire,27,183,73,OGC Nice,Left
+571,A. Golovin,79,80,20500000,CAM,Russia,26,180,69,AS Monaco,Right
+572,David García,79,81,17500000,CB,Spain,28,185,72,CA Osasuna,Right
+573,E. Skhiri,79,80,18000000,CDM,Tunisia,27,185,74,1. FC Köln,Right
+574,A. Maru?ic,79,79,15500000,LB,Montenegro,29,185,85,Lazio,Right
+575,W. Weghorst,79,79,17500000,ST,Netherlands,29,197,84,Besiktas JK,Right
+576,J. Omlin,79,81,15000000,GK,Switzerland,28,189,80,Montpellier Hérault SC,Right
+577,J. Weigl,79,80,20500000,CDM,Germany,26,187,80,Borussia Mönchengladbach,Right
+578,D. van de Beek,79,84,25500000,CAM,Netherlands,25,184,74,Manchester United,Right
+579,D. Malen,79,85,28000000,ST,Netherlands,23,178,77,Borussia Dortmund,Right
+580,Rafa Mir,79,84,26000000,ST,Spain,25,191,86,Sevilla FC,Right
+581,B. White,79,86,32500000,CDM,England,24,185,77,Arsenal,Right
+582,J. Bijlow,79,85,22500000,GK,Netherlands,24,188,76,Feyenoord,Right
+583,S. Mandanda,79,79,1900000,GK,France,37,185,82,Stade Rennais FC,Right
+584,J. Evans,79,79,5500000,CB,Northern Ireland,34,188,77,Leicester City,Right
+585,Joaquín,79,79,0,CAM,Spain,40,179,75,Real Betis Balompié,Right
+586,D. Wass,79,79,11000000,CM,Denmark,33,181,74,Brøndby IF,Right
+587,Ó. Trejo,79,79,8000000,CAM,Argentina,34,180,79,Rayo Vallecano,Right
+588,A. Witsel,79,79,8500000,CDM,Belgium,33,186,81,Atlético de Madrid,Right
+589,J. Hernández,79,79,8500000,ST,Mexico,34,175,73,LA Galaxy,Right
+590,Sergio Asenjo,79,79,5500000,GK,Spain,33,189,87,Real Valladolid CF,Right
+591,A. Modeste,79,79,8500000,ST,France,34,187,84,Borussia Dortmund,Right
+592,F. Muslera,79,79,1900000,GK,Uruguay,36,190,74,Galatasaray SK,Right
+593,G. Buffon,79,79,1900000,GK,Italy,44,192,92,Parma,Right
+594,O. Wijndal,79,83,24000000,LWB,Netherlands,22,176,65,Ajax,Left
+595,Reinildo,79,79,16000000,LB,Mozambique,28,180,73,Atlético de Madrid,Left
+596,Fran Beltrán,79,84,24500000,CDM,Spain,23,165,64,RC Celta de Vigo,Right
+597,C. Ünder,79,82,24000000,RW,Turkey,24,173,66,Olympique de Marseille,Left
+598,Lucas Veríssimo,79,82,20500000,CB,Brazil,26,191,86,SL Benfica,Right
+599,T. Ndombele,79,82,23000000,CAM,France,25,181,76,Napoli,Right
+600,S. Özcan,79,83,23000000,CDM,Turkey,24,180,76,Borussia Dortmund,Right
+601,M. Lazzari,79,79,16000000,RM,Italy,28,174,67,Lazio,Right
+602,H. Aouar,79,84,26500000,CAM,France,24,175,70,Olympique Lyonnais,Right
+603,J. Brekalo,79,85,28000000,CAM,Croatia,24,175,70,VfL Wolfsburg,Right
+604,Diogo Costa,79,86,30500000,GK,Portugal,22,188,84,FC Porto,Right
+605,E. Reynoso,79,80,20500000,CAM,Argentina,26,176,67,Minnesota United FC,Left
+606,Marcão,79,83,21500000,CB,Brazil,26,185,81,Sevilla FC,Left
+607,D. Henderson,79,82,18000000,GK,England,25,188,85,Nottingham Forest,Right
+608,T. Tomiyasu,79,85,26000000,CB,Japan,23,188,84,Arsenal,Right
+609,L. Jovic,79,84,27000000,ST,Serbia,24,182,85,Fiorentina,Right
+610,Pau López,79,82,17000000,GK,Spain,27,189,77,Olympique de Marseille,Left
+611,R. Tapia,79,81,19500000,CDM,Peru,26,185,80,RC Celta de Vigo,Right
+612,L. de Jong,79,79,15000000,ST,Netherlands,31,189,86,PSV,Right
+613,João Pedro,79,79,17000000,CF,Italy,30,184,73,Fenerbahçe SK,Right
+614,K. Bellarabi,79,79,14000000,RM,Germany,32,184,79,Bayer 04 Leverkusen,Right
+615,J. Tarkowski,79,79,14500000,CB,England,29,188,81,Everton,Right
+616,Suso,79,79,17500000,CAM,Spain,28,176,70,Sevilla FC,Left
+617,J. Draxler,79,79,17500000,CAM,Germany,28,187,77,SL Benfica,Right
+618,C. Coady,79,79,14500000,CB,England,29,186,80,Everton,Right
+619,Felipe Anderson,79,79,17000000,RW,Brazil,29,175,70,Lazio,Right
+620,J. Veretout,79,79,15000000,CDM,France,29,177,67,Olympique de Marseille,Right
+621,Ismaily,79,79,12000000,LB,Brazil,32,177,82,LOSC Lille,Left
+622,A. Marchesín,79,79,3000000,GK,Argentina,34,188,85,RC Celta de Vigo,Right
+623,L. Dunk,79,79,14500000,CB,England,30,192,88,Brighton & Hove Albion,Right
+624,M. Sels,79,80,13000000,GK,Belgium,30,190,88,RC Strasbourg Alsace,Right
+625,G. Xhaka,79,79,15000000,CDM,Switzerland,29,185,82,Arsenal,Left
+626,M. Riemann,79,79,5500000,GK,Germany,33,186,83,VfL Bochum 1848,Right
+627,Sérgio Oliveira,79,79,17000000,CM,Portugal,30,181,78,Galatasaray SK,Right
+628,M. Zaccagni,79,79,18500000,LW,Italy,27,177,63,Lazio,Right
+629,M. Perin,79,80,13500000,GK,Italy,29,188,77,Juventus,Right
+630,Juanmi,79,79,17000000,RW,Spain,29,172,69,Real Betis Balompié,Right
+631,N. Lodeiro,79,79,11000000,CAM,Uruguay,33,170,69,Seattle Sounders FC,Left
+632,C. Wilson,79,79,17000000,ST,England,30,180,66,Newcastle United,Right
+633,Y. Rakitskyi,79,79,11500000,CB,Ukraine,32,185,83,Adana Demirspor,Left
+634,D. Ings,79,79,17500000,ST,England,29,178,73,Aston Villa,Right
+635,N. Gudelj,79,79,14500000,CDM,Serbia,30,187,73,Sevilla FC,Right
+636,Marcos Alonso,79,79,12500000,LB,Spain,31,188,85,FC Barcelona,Left
+637,Ander Herrera,79,79,14000000,CDM,Spain,32,182,71,Athletic Club de Bilbao,Right
+638,N. Matic,79,79,8500000,CDM,Serbia,33,194,83,Roma,Left
+639,M. Silvestri,79,79,9500000,GK,Italy,31,191,80,Udinese Calcio,Right
+640,M. Antonio,79,79,14000000,ST,Jamaica,32,178,82,West Ham United,Right
+641,B. André,79,79,12500000,CDM,France,31,180,76,LOSC Lille,Right
+642,D. Klaassen,79,79,17000000,CAM,Netherlands,29,179,70,Ajax,Right
+643,A. Florenzi,79,79,12500000,RB,Italy,31,173,67,AC Milan,Right
+644,Héctor Bellerín,79,80,18500000,RB,Spain,27,178,74,FC Barcelona,Right
+645,A. Milik,79,79,18000000,ST,Poland,28,186,80,Juventus,Left
+646,Munir,79,79,19000000,LM,Morocco,26,175,69,Getafe CF,Left
+647,L. Ajorque,79,79,18000000,ST,France,28,197,92,RC Strasbourg Alsace,Left
+648,D. Djené,79,79,14500000,CB,Togo,30,178,72,Getafe CF,Right
+649,D. Zappacosta,79,79,15000000,LWB,Italy,30,182,75,Atalanta,Right
+650,L. Zelarayán,79,79,17000000,CAM,Armenia,30,172,70,Columbus Crew,Right
+651,F. Armani,79,79,1900000,GK,Argentina,35,189,88,River Plate,Right
+652,Adama Traoré,79,80,20500000,RW,Spain,26,178,86,Wolverhampton Wanderers,Right
+653,João Mário,79,79,17000000,CM,Portugal,29,179,73,SL Benfica,Right
+654,F. Bernardeschi,79,79,17500000,RM,Italy,28,185,77,Toronto FC,Left
+655,P. Onuachu,79,79,18000000,ST,Nigeria,28,201,98,KRC Genk,Right
+656,N. Stanciu,79,79,17000000,CM,Romania,29,170,63,Wuhan Three Towns,Right
+657,Rubén García,79,79,17500000,LM,Spain,28,171,71,CA Osasuna,Left
+658,C. Mbemba,79,81,18500000,CB,Congo DR,27,182,78,Olympique de Marseille,Right
+659,J. McGinn,79,80,20000000,CM,Scotland,27,178,68,Aston Villa,Left
+660,Jonny,79,79,16000000,LWB,Spain,28,170,70,Wolverhampton Wanderers,Right
+661,R. Ghezzal,79,79,17000000,RW,Algeria,30,182,70,Besiktas JK,Left
+662,Clinton Mata,79,79,15500000,RB,Angola,29,180,73,Club Brugge KV,Right
+663,A. Januzaj,79,79,18500000,RW,Belgium,27,186,75,Sevilla FC,Left
+664,B. Djimsiti,79,79,14500000,CB,Albania,29,190,83,Atalanta,Right
+665,A. Doucouré,79,79,17000000,CDM,Mali,29,184,76,Everton,Right
+666,Matheus,79,80,13500000,GK,Brazil,29,190,84,SC Braga,Right
+667,M. Keane,79,80,16000000,CB,England,29,191,82,Everton,Right
+668,L. Trossard,79,79,18500000,LM,Belgium,27,171,67,Brighton & Hove Albion,Right
+669,Manu Trigueros,79,79,17000000,CM,Spain,30,178,75,Villarreal CF,Right
+670,B. Davies,79,79,14500000,CB,Wales,29,181,76,Tottenham Hotspur,Left
+671,S. Umtiti,79,79,15000000,CB,France,28,182,75,Lecce,Left
+672,Denis Suárez,79,79,17500000,CAM,Spain,28,178,66,RC Celta de Vigo,Right
+673,E. Lamela,79,79,17000000,RW,Argentina,30,181,79,Sevilla FC,Left
+674,Luiz Felipe,79,84,23000000,CB,Italy,25,187,80,Real Betis Balompié,Right
+675,Jadson Bardeira,78,78,17000000,ST,Brazil,22,187,85,Sport Club Corinthians Paulista,Right
+676,A. Bayindir,78,82,16000000,GK,Turkey,24,198,73,Fenerbahçe SK,Right
+677,Puado,78,83,21000000,ST,Spain,24,177,69,RCD Espanyol de Barcelona,Right
+678,S. Diop,78,86,31500000,CAM,France,22,175,65,OGC Nice,Right
+679,A. Bah,78,82,18500000,RB,Denmark,24,183,76,SL Benfica,Right
+680,J. Todibo,78,84,20500000,CB,France,22,190,88,OGC Nice,Right
+681,J. Álvarez,78,86,32000000,CAM,Argentina,22,173,71,Manchester City,Right
+682,E. Fernández,78,87,31500000,CM,Argentina,21,180,77,SL Benfica,Right
+683,A. Espino,78,78,12000000,LB,Uruguay,30,172,71,Cádiz CF,Left
+684,Emerson Royal,78,82,18500000,RWB,Brazil,23,181,79,Tottenham Hotspur,Right
+685,T. Hole?,78,78,12000000,CDM,Czech Republic,29,180,73,SK Slavia Praha,Right
+686,C. De Ketelaere,78,88,32000000,CAM,Belgium,21,192,79,AC Milan,Left
+687,Gabriel Martinelli,78,88,31500000,RM,Brazil,21,178,75,Arsenal,Right
+688,J. Veerman,78,83,21000000,CM,Netherlands,23,185,75,PSV,Right
+689,P. Kalulu,78,85,26500000,CB,France,22,184,69,AC Milan,Right
+690,P. Hincapié,78,85,26500000,CB,Ecuador,20,184,76,Bayer 04 Leverkusen,Left
+691,Evanilson,78,86,32000000,ST,Brazil,22,181,77,FC Porto,Right
+692,G. Mamardashvili,78,84,18500000,GK,Georgia,21,199,88,Valencia CF,Left
+693,C. Hughes,78,78,15500000,LM,Wales,26,178,73,AFC Richmond,Left
+694,A. Dixon,78,81,17000000,RWB,England,26,170,72,AFC Richmond,Right
+695,T. Roberts,78,78,14000000,ST,Zimbabwe,29,178,82,AFC Richmond,Right
+696,M. Simakan,78,86,29500000,CB,France,22,187,82,RB Leipzig,Right
+697,B. Sosa,78,83,20000000,LWB,Croatia,24,187,79,VfB Stuttgart,Left
+698,J. Pavlenka,78,78,9500000,GK,Czech Republic,30,196,81,SV Werder Bremen,Right
+699,A. Saelemaekers,78,82,20000000,RM,Belgium,23,180,72,AC Milan,Right
+700,Melendo,78,82,20000000,CAM,Spain,24,167,63,Granada CF,Left
+701,R. Kolo Muani,78,84,22500000,ST,France,23,187,73,Eintracht Frankfurt,Right
+702,A. Haidara,78,82,20000000,CM,Mali,24,175,72,RB Leipzig,Right
+703,Pedro Neto,78,85,28500000,CAM,Portugal,22,172,62,Wolverhampton Wanderers,Left
+704,M. Gómez,78,80,18000000,ST,Uruguay,25,186,84,Trabzonspor,Right
+705,N. Lang,78,85,28000000,CAM,Netherlands,23,179,69,Club Brugge KV,Right
+706,S. Kalajd?ic,78,82,20500000,ST,Austria,24,200,93,Wolverhampton Wanderers,Right
+707,G. Vicario,78,82,15500000,GK,Italy,25,188,76,Empoli,Right
+708,N. De la Cruz,78,79,16500000,CAM,Uruguay,25,167,65,River Plate,Right
+709,C. Hudson-Odoi,78,84,22500000,RM,England,21,182,76,Bayer 04 Leverkusen,Right
+710,H. Traorè,78,87,31500000,CAM,Côte d'Ivoire,22,177,77,U.S. Sassuolo Calcio,Right
+711,Junior Messias,78,78,11500000,RW,Brazil,31,179,70,AC Milan,Left
+712,N. Vla?ic,78,83,21000000,CAM,Croatia,24,178,79,Torino F.C.,Right
+713,M. Guéhi,78,86,29500000,CB,England,21,182,82,Crystal Palace,Right
+714,E. Elmas,78,85,28500000,CAM,North Macedonia,22,184,74,Napoli,Right
+715,P. Rajkovic,78,81,14000000,GK,Serbia,26,191,85,RCD Mallorca,Right
+716,K. Mavropanos,78,83,19000000,CB,Greece,24,194,89,VfB Stuttgart,Right
+717,C. Baumgartner,78,84,22500000,CAM,Austria,22,180,73,TSG Hoffenheim,Right
+718,R. Faivre,78,84,22000000,CAM,France,23,180,69,Olympique Lyonnais,Left
+719,S. Gigot,78,79,13500000,CB,France,28,187,75,Olympique de Marseille,Right
+720,G. Maripán,78,80,14000000,CB,Chile,28,193,83,AS Monaco,Right
+721,G. Simeone,78,79,17000000,ST,Argentina,26,181,81,Napoli,Right
+722,Paulinho,78,78,14000000,ST,Portugal,29,187,88,Sporting CP,Left
+723,T. Stepanenko,78,78,9500000,CDM,Ukraine,32,181,76,Shakhtar Donetsk,Left
+724,Portu,78,78,13500000,RM,Spain,30,167,66,Getafe CF,Right
+725,Juan Bernat,78,78,12500000,LB,Spain,29,170,67,Paris Saint-Germain,Left
+726,Mário Rui,78,78,10000000,LB,Portugal,31,170,67,Napoli,Left
+727,R. Ruidíaz,78,78,12000000,ST,Peru,31,169,66,Seattle Sounders FC,Right
+728,C. Dawson,78,78,9000000,CB,England,32,188,77,West Ham United,Right
+729,Víctor Ruiz,78,78,6500000,CB,Spain,33,185,78,Real Betis Balompié,Left
+730,R. Pereyra,78,78,11500000,CM,Argentina,31,182,77,Udinese Calcio,Right
+731,Mario Gaspar,78,78,10000000,RB,Spain,31,180,77,Watford,Right
+732,M. Rits,78,78,12500000,CDM,Belgium,28,178,72,Club Brugge KV,Right
+733,M. Hitz,78,78,2400000,GK,Switzerland,34,194,91,FC Basel 1893,Right
+734,B. Mee,78,78,9000000,CB,England,32,180,82,Brentford,Left
+735,A. Cresswell,78,78,9500000,LB,England,32,175,66,West Ham United,Left
+736,G. Bonaventura,78,78,11000000,CM,Italy,32,181,75,Fiorentina,Right
+737,F. Caputo,78,78,7000000,ST,Italy,34,181,77,U.C. Sampdoria,Right
+738,O. Ighalo,78,78,9000000,ST,Nigeria,33,185,80,Al Hilal,Right
+739,M. Özil,78,78,9000000,CAM,Germany,33,180,70,Istanbul Basaksehir FK,Left
+740,C. Bravo,78,78,1600000,GK,Chile,39,184,80,Real Betis Balompié,Right
+741,S. Romero,78,78,1600000,GK,Argentina,35,192,86,Boca Juniors,Right
+742,A. Plea,78,78,14000000,CAM,France,29,181,79,Borussia Mönchengladbach,Right
+743,P. Bamford,78,78,14500000,ST,England,28,185,71,Leeds United,Left
+744,J. Lingard,78,78,14000000,CAM,England,29,175,60,Nottingham Forest,Right
+745,S. Dimitrievski,78,79,11000000,GK,North Macedonia,28,188,84,Rayo Vallecano,Right
+746,M. Cornet,78,81,18500000,ST,Côte d'Ivoire,25,179,69,West Ham United,Left
+747,A. Mitrovic,78,78,15000000,ST,Serbia,27,189,90,Fulham,Right
+748,L. Alario,78,78,14000000,ST,Argentina,29,185,78,Eintracht Frankfurt,Right
+749,E. Rigoni,78,78,14000000,RM,Argentina,29,180,70,Austin FC,Left
+750,A. Miranchuk,78,79,16500000,CAM,Russia,26,182,74,Torino F.C.,Left
+751,T. Strakosha,78,81,14000000,GK,Albania,27,193,78,Brentford,Right
+752,Gilberto,78,78,12500000,RB,Brazil,29,181,76,SL Benfica,Right
+753,P. Gollini,78,81,14000000,GK,Italy,27,194,94,Fiorentina,Right
+754,Rubén Peña,78,78,12000000,RB,Spain,30,170,65,CA Osasuna,Right
+755,J. Martínez,78,78,14000000,ST,Venezuela,29,173,74,Atlanta United,Right
+756,M. Halstenberg,78,78,11500000,CB,Germany,30,188,87,RB Leipzig,Left
+757,J. Quintero,78,78,14000000,CAM,Colombia,29,168,67,River Plate,Left
+758,Pacheco,78,79,10500000,GK,Spain,30,186,81,Unión Deportiva Almería,Left
+759,Romarinho,78,78,12000000,CF,Brazil,31,174,69,Al Ittihad,Right
+760,N. Aké,78,80,15000000,CB,Netherlands,27,180,75,Manchester City,Left
+761,Óliver Torres,78,79,16000000,CM,Spain,27,175,70,Sevilla FC,Right
+762,J. Hector,78,78,9500000,LB,Germany,32,185,75,1. FC Köln,Left
+763,J. Veltman,78,78,11500000,CB,Netherlands,30,184,75,Brighton & Hove Albion,Right
+764,M. Kean,78,86,32000000,ST,Italy,22,182,72,Juventus,Right
+765,M. Senesi,78,83,18500000,CB,Argentina,25,183,78,AFC Bournemouth,Left
+766,J. Milner,78,78,4400000,CDM,England,36,175,70,Liverpool,Right
+767,S. Aurier,78,78,12500000,RB,Côte d'Ivoire,29,174,74,Nottingham Forest,Right
+768,E. Pérez,78,78,2800000,CDM,Argentina,36,178,77,River Plate,Right
+769,J. Tavernier,78,78,12000000,RB,England,30,182,75,Rangers FC,Right
+770,M. Faraoni,78,78,12000000,RWB,Italy,30,180,71,Hellas Verona,Right
+771,Willian José,78,78,14000000,ST,Brazil,30,189,91,Real Betis Balompié,Right
+772,Pablo Maffeo,78,83,20000000,RB,Spain,24,172,70,RCD Mallorca,Right
+773,O. Watkins,78,81,18500000,ST,England,26,180,70,Aston Villa,Right
+774,T. Castagne,78,80,16000000,RWB,Belgium,26,185,80,Leicester City,Right
+775,F. Cervi,78,78,14000000,LM,Argentina,28,165,62,RC Celta de Vigo,Left
+776,E. Ünal,78,82,20000000,ST,Turkey,25,187,78,Getafe CF,Right
+777,G. Arias,78,78,2400000,GK,Chile,34,188,82,Racing Club,Right
+778,S. Rochet,78,80,11500000,GK,Uruguay,29,190,85,Club Nacional de Football,Right
+779,V. Rongier,78,79,16000000,CDM,France,27,172,70,Olympique de Marseille,Right
+780,A. Nübel,78,84,17500000,GK,Germany,25,193,88,AS Monaco,Right
+781,Sergio Herrera,78,79,11000000,GK,Spain,29,192,82,CA Osasuna,Right
+782,M. Lopez,78,81,19000000,CAM,France,24,167,58,U.S. Sassuolo Calcio,Right
+783,K. Toko Ekambi,78,78,14000000,LM,Cameroon,29,185,74,Olympique Lyonnais,Right
+784,R. Bensebaini,78,79,15000000,LB,Algeria,27,187,85,Borussia Mönchengladbach,Left
+785,A. Meret,78,81,14500000,GK,Italy,25,190,83,Napoli,Left
+786,D. Caleta-Car,78,82,17500000,CB,Croatia,25,192,89,Southampton,Right
+787,G. Krychowiak,78,78,9500000,CDM,Poland,32,186,79,Al Shabab,Right
+788,D. D'Ambrosio,78,78,6500000,CB,Italy,33,180,75,Inter,Right
+789,Douglas Luiz,78,83,19500000,CM,Brazil,24,175,66,Aston Villa,Right
+790,M. Ryan,78,78,9500000,GK,Australia,30,184,82,F.C. København,Right
+791,S. Driussi,78,81,18500000,CAM,Argentina,26,179,79,Austin FC,Right
+792,R. Borré,78,79,17000000,ST,Colombia,26,174,70,Eintracht Frankfurt,Right
+793,S. Benrahma,78,78,15500000,LM,Algeria,26,172,67,West Ham United,Right
+794,J. Brooks,78,79,13000000,CB,United States,29,193,78,SL Benfica,Left
+795,Pozuelo,78,78,13500000,CAM,Spain,30,170,74,Inter Miami CF,Right
+796,A. Carrillo,78,78,11500000,RW,Peru,31,182,78,Al Hilal,Right
+797,G. Caprari,78,78,14500000,CAM,Italy,28,176,72,AC Monza,Right
+798,W. Boly,78,78,9500000,CB,Côte d'Ivoire,31,195,97,Nottingham Forest,Right
+799,Fernando,78,78,12000000,CDM,Brazil,30,173,66,Antalyaspor,Right
+800,T. Meunier,78,78,12000000,RB,Belgium,30,191,90,Borussia Dortmund,Right
+801,M. Rojo,78,78,9000000,CB,Argentina,32,186,82,Boca Juniors,Left
+802,A. Mandi,78,78,11500000,CB,Algeria,30,184,78,Villarreal CF,Right
+803,S. Rode,78,78,10000000,CDM,Germany,31,180,71,Eintracht Frankfurt,Right
+804,L. Unnerstall,78,78,7500000,GK,Germany,31,198,103,FC Twente,Right
+805,Campaña,78,78,13500000,CM,Spain,29,179,70,Levante Unión Deportiva,Right
+806,G. Trauner,78,78,11500000,CB,Austria,30,183,82,Feyenoord,Right
+807,D. Praet,78,78,14000000,CAM,Belgium,28,181,78,Leicester City,Right
+808,Oriol Romeu,78,78,12000000,CDM,Spain,30,183,83,Girona FC,Right
+809,Lucas Pérez,78,78,9000000,CF,Spain,33,180,73,Cádiz CF,Left
+810,M. Niakhaté,78,80,15500000,CB,France,26,190,85,Nottingham Forest,Left
+811,F. Dimarco,78,83,20000000,LWB,Italy,24,175,75,Inter,Left
+812,Andrei Girotto,78,78,11500000,CB,Brazil,30,186,79,FC Nantes,Right
+813,Daniel Podence,78,79,16500000,CAM,Portugal,26,165,58,Wolverhampton Wanderers,Right
+814,M. Almirón,78,78,14000000,RM,Paraguay,28,174,70,Newcastle United,Left
+815,P. Lienhart,78,80,15500000,CB,Austria,25,189,83,Sport-Club Freiburg,Right
+816,Brahim,78,86,31500000,CAM,Spain,22,171,59,AC Milan,Right
+817,E. Palacios,78,83,19500000,CM,Argentina,23,178,71,Bayer 04 Leverkusen,Right
+818,J. Karlsson,78,83,21000000,CAM,Sweden,23,171,70,AZ Alkmaar,Right
+819,F. Aursnes,78,79,15000000,CDM,Norway,26,179,71,SL Benfica,Right
+820,Ç. Söyüncü,78,80,15500000,CB,Turkey,26,185,82,Leicester City,Right
+821,Caio Henrique,78,82,18500000,LWB,Brazil,24,179,70,AS Monaco,Left
+822,W. Endo,78,78,13500000,CM,Japan,29,178,77,VfB Stuttgart,Right
+823,J. Ito,78,78,14000000,RW,Japan,29,177,68,Stade de Reims,Right
+824,N. Molina,78,84,21000000,RWB,Argentina,24,175,70,Atlético de Madrid,Right
+825,Zubeldia,78,82,17500000,CDM,Spain,25,181,73,Real Sociedad,Right
+826,Odriozola,78,80,16000000,RWB,Spain,26,176,66,Real Madrid CF,Right
+827,Luiz Araújo,78,78,15500000,RM,Brazil,26,175,70,Atlanta United,Left
+828,Diogo Dalot,78,84,21000000,RB,Portugal,23,184,76,Manchester United,Right
+829,J. Ikoné,78,82,20000000,LM,France,24,175,73,Fiorentina,Left
+830,P. Rosario,78,82,18000000,CDM,Netherlands,25,188,73,OGC Nice,Right
+831,M. Edwards,78,84,22000000,CAM,England,23,168,65,Sporting CP,Left
+832,D. Lovren,78,78,0,CB,Croatia,32,188,84,Free agent,Right
+833,Jonatão Praz,78,78,16500000,LW,Brazil,22,172,70,Flamengo,Left
+834,C. Lenglet,78,81,16000000,CB,France,27,186,81,Tottenham Hotspur,Left
+835,Fredditinho,78,78,7000000,ST,Brazil,34,188,87,Palmeiras,Right
+836,Gerson,78,82,19500000,CDM,Brazil,25,184,76,Olympique de Marseille,Left
+837,F. Guilbert,78,79,15000000,RWB,France,27,178,78,Aston Villa,Right
+838,Nuno Santos,78,78,15000000,LW,Portugal,27,177,72,Sporting CP,Left
+839,K. Walker-Peters,78,83,19000000,RB,England,25,174,64,Southampton,Right
+840,M. Thuram,78,83,21500000,ST,France,24,192,90,Borussia Mönchengladbach,Right
+841,Pedraza,78,80,16000000,LB,Spain,26,184,73,Villarreal CF,Left
+842,F. Grillitsch,78,80,15500000,CM,Austria,26,187,77,Ajax,Right
+843,E. Audero,78,81,14500000,GK,Italy,25,192,83,U.C. Sampdoria,Right
+844,S. Sensi,78,79,16500000,CAM,Italy,26,168,62,AC Monza,Right
+845,J. Aidoo,78,81,16500000,CB,Ghana,26,184,80,RC Celta de Vigo,Right
+846,Arturo Inálcio,78,78,16500000,CM,Brazil,22,170,60,Flamengo,Right
+847,L. Nmecha,78,83,21500000,ST,Germany,23,185,80,VfL Wolfsburg,Right
+848,Gerson Armão,78,78,15000000,LB,Brazil,22,186,73,Internacional,Left
+849,Wellington Sabrão,78,78,5000000,RB,Brazil,34,169,66,Flamengo,Right
+850,Zervandro,78,78,14500000,CB,Brazil,22,182,79,Internacional,Left
+851,Pedrão Tofico,78,78,13500000,CB,Brazil,26,190,88,Flamengo,Right
+852,Hediselton,78,78,15000000,RB,Brazil,22,176,75,RB Bragantino,Right
+853,Albertinho Dutra,78,78,13500000,LW,Brazil,30,175,72,São Paulo,Left
+854,Guilson Paiva,78,78,15500000,RM,Brazil,26,173,72,Flamengo,Right
+855,Dante,78,78,2500000,CB,Brazil,38,189,91,OGC Nice,Left
+856,T. Mings,78,78,12000000,CB,England,29,196,77,Aston Villa,Left
+857,K. Koné,77,86,23500000,CAM,France,21,185,80,Borussia Mönchengladbach,Right
+858,Igor Coronado,77,77,10500000,CAM,Brazil,29,170,68,Al Ittihad,Right
+859,S. Kritsyuk,77,77,5500000,GK,Russia,31,192,85,Gil Vicente FC,Right
+860,A. Tameze,77,77,10500000,CDM,France,28,180,78,Hellas Verona,Right
+861,F. Tait,77,77,10500000,CM,France,29,176,73,Stade Rennais FC,Right
+862,J. Mojica,77,77,9500000,LB,Colombia,29,185,73,Villarreal CF,Left
+863,P. Díaz,77,77,9500000,CB,Chile,27,178,76,River Plate,Right
+864,C. Izquierdoz,77,77,5000000,CB,Argentina,33,185,85,Real Sporting de Gijón,Right
+865,D. Benedetto,77,77,8500000,ST,Argentina,32,177,75,Boca Juniors,Right
+866,M. Borjan,77,77,0,GK,Canada,34,196,84,Free agent,Right
+867,K. Rekik,77,80,12000000,CB,Netherlands,27,186,84,Sevilla FC,Left
+868,M. Batshuayi,77,77,11000000,ST,Belgium,28,185,80,Fenerbahçe SK,Right
+869,C. Kramer,77,77,7500000,CDM,Germany,31,191,80,Borussia Mönchengladbach,Right
+870,D. Suárez,77,77,3900000,RB,Uruguay,34,173,68,Getafe CF,Right
+871,P. Kaderábek,77,77,9000000,RWB,Czech Republic,30,182,81,TSG Hoffenheim,Right
+872,D. Demme,77,77,9000000,CDM,Germany,30,172,71,Napoli,Right
+873,N. Dorsch,77,82,14500000,CM,Germany,24,178,76,FC Augsburg,Right
+874,A. Gomis,77,79,9000000,GK,Senegal,28,196,80,Stade Rennais FC,Right
+875,David López,77,77,7000000,CDM,Spain,32,183,81,Girona FC,Right
+876,M. Doherty,77,77,9000000,RWB,Republic of Ireland,30,182,87,Tottenham Hotspur,Right
+877,M. Icardi,77,77,10500000,ST,Argentina,29,181,75,Galatasaray SK,Right
+878,B. Lecomte,77,77,5500000,GK,France,31,186,78,RCD Espanyol de Barcelona,Left
+879,Cristian Tello,77,77,10000000,LM,Spain,30,178,65,Los Angeles FC,Right
+880,Vitolo,77,77,8500000,LM,Spain,32,185,79,Unión Deportiva Las Palmas,Right
+881,N. Pallois,77,77,3400000,CB,France,34,189,89,FC Nantes,Left
+882,A. Oxlade-Chamberlain,77,77,10500000,CAM,England,28,175,70,Liverpool,Right
+883,F. Midtsjø,77,77,10500000,CM,Norway,28,175,68,Galatasaray SK,Right
+884,J. Svensson,77,77,9500000,RB,Norway,29,170,70,Adana Demirspor,Right
+885,Rodrigo,77,77,8500000,LW,Spain,31,182,77,Leeds United,Left
+886,D. Burn,77,77,8500000,CB,England,30,198,87,Newcastle United,Left
+887,L. Augustinsson,77,77,9500000,LB,Sweden,28,181,74,Aston Villa,Left
+888,R. Bazoer,77,80,14000000,CM,Netherlands,25,184,74,AZ Alkmaar,Right
+889,I. Toney,77,79,13000000,ST,England,26,187,76,Brentford,Right
+890,A. Djiku,77,79,11000000,CB,Ghana,27,182,81,RC Strasbourg Alsace,Right
+891,I. Diop,77,82,14000000,CB,France,25,194,92,Fulham,Right
+892,J. Harrison,77,80,14000000,LM,England,25,175,70,Leeds United,Left
+893,D. James,77,82,16000000,RM,Wales,24,171,76,Fulham,Right
+894,K. Tsimikas,77,80,12500000,LB,Greece,26,179,68,Liverpool,Left
+895,Isi Palazón,77,77,11000000,RM,Spain,27,169,71,Rayo Vallecano,Left
+896,R. Doan,77,83,16500000,CAM,Japan,24,172,70,Sport-Club Freiburg,Left
+897,A. Vega,77,83,0,CAM,Mexico,24,173,77,Free agent,Right
+898,M. Turner,77,80,9500000,GK,United States,28,191,79,Arsenal,Right
+899,R. Kristensen,77,82,15000000,RWB,Denmark,24,187,70,Leeds United,Right
+900,S. Villa,77,78,12500000,RM,Colombia,26,179,71,Boca Juniors,Right
+901,Bruno Viana,77,80,12000000,CB,Brazil,27,187,79,Wuhan FC,Right
+902,Gedson Fernandes,77,81,15000000,CAM,Portugal,23,181,71,Besiktas JK,Right
+903,Iago,77,80,13000000,LWB,Brazil,25,181,67,FC Augsburg,Left
+904,Z. Steffen,77,79,9500000,GK,United States,27,191,86,Middlesbrough,Right
+905,Domingos Duarte,77,80,12000000,CB,Portugal,27,190,78,Getafe CF,Right
+906,W. Faes,77,82,14500000,CB,Belgium,24,187,82,Leicester City,Right
+907,I. Sarr,77,83,16500000,RM,Senegal,24,185,76,Watford,Right
+908,Brais Méndez,77,80,14000000,CAM,Spain,25,187,76,Real Sociedad,Left
+909,G. Maggiore,77,81,15000000,CM,Italy,24,184,69,US Salernitana 1919,Right
+910,S. Lukic,77,80,14000000,CM,Serbia,25,183,77,Torino F.C.,Right
+911,Davidson,77,77,8500000,LM,Brazil,31,177,63,Wuhan Three Towns,Right
+912,C. McGregor,77,77,9000000,CDM,Scotland,29,178,74,Celtic,Left
+913,D. Alli,77,80,14000000,ST,England,26,188,80,Besiktas JK,Right
+914,Bruma,77,77,11000000,LW,Portugal,27,173,70,Fenerbahçe SK,Right
+915,S. Boufal,77,77,11000000,CAM,Morocco,28,175,67,Angers SCO,Right
+916,D. Lazovic,77,77,8500000,LM,Serbia,31,181,66,Hellas Verona,Right
+917,P. Max,77,77,9500000,LB,Germany,28,177,77,PSV,Left
+918,F. Lejeune,77,77,7000000,CB,France,31,189,81,Rayo Vallecano,Right
+919,R. Gikiewicz,77,77,1800000,GK,Poland,34,190,81,FC Augsburg,Right
+920,Hugo Mallo,77,77,7500000,RB,Spain,31,173,69,RC Celta de Vigo,Right
+921,B. Yilmaz,77,77,3600000,ST,Turkey,36,188,77,Fortuna Sittard,Right
+922,M. Casco,77,77,3900000,RM,Argentina,34,170,69,River Plate,Right
+923,S. Widmer,77,77,9500000,RWB,Switzerland,29,183,80,1. FSV Mainz 05,Right
+924,Ander Capa,77,77,9000000,RB,Spain,30,175,75,Athletic Club de Bilbao,Right
+925,I. Bebou,77,77,11000000,RW,Togo,28,185,80,TSG Hoffenheim,Right
+926,Danilo,77,77,9000000,LB,Brazil,30,170,73,VfL Bochum 1848,Left
+927,J. Beauguel,77,77,10500000,ST,France,30,196,96,Al Wehda,Left
+928,M. Simon,77,77,11500000,LM,Nigeria,26,168,69,FC Nantes,Right
+929,A. Blake,77,77,5500000,GK,Jamaica,31,188,79,Philadelphia Union,Right
+930,M. Targett,77,78,11500000,LB,England,26,183,70,Newcastle United,Left
+931,M. Vecino,77,77,10000000,CM,Uruguay,30,187,81,Lazio,Right
+932,J. Denayer,77,79,0,CB,Belgium,27,184,80,Free agent,Right
+933,Y. Mina,77,79,11000000,CB,Colombia,27,195,94,Everton,Right
+934,D. Gray,77,78,12500000,RW,England,26,183,75,Everton,Right
+935,A. ?ivkovic,77,78,12500000,RW,Serbia,25,169,62,PAOK,Left
+936,F. Honorat,77,78,12500000,LM,France,25,180,70,Stade Brestois 29,Right
+937,M. Or?ic,77,77,10500000,LW,Croatia,29,179,69,Dinamo Zagreb,Right
+938,N. Elvedi,77,81,13000000,CB,Switzerland,25,189,84,Borussia Mönchengladbach,Right
+939,L. Boyé,77,80,14000000,ST,Argentina,26,183,79,Elche CF,Right
+940,B. Embolo,77,80,14000000,ST,Switzerland,25,187,88,AS Monaco,Right
+941,M. Friedrich,77,79,11500000,CB,Germany,26,193,84,Borussia Mönchengladbach,Right
+942,Dani Ceballos,77,80,14000000,CM,Spain,25,179,68,Real Madrid CF,Right
+943,R. Aguilar,77,77,9500000,RB,France,29,172,71,AS Monaco,Right
+944,S. Lainer,77,77,9500000,RB,Austria,29,175,73,Borussia Mönchengladbach,Right
+945,Pedro Chirivella,77,80,12500000,CDM,Spain,25,178,66,FC Nantes,Right
+946,M. Schwäbe,77,80,10500000,GK,Germany,27,190,86,1. FC Köln,Right
+947,Dyego Sousa,77,77,8500000,ST,Portugal,32,190,82,Unión Deportiva Almería,Right
+948,J. Andersen,77,80,12000000,CDM,Denmark,26,192,90,Crystal Palace,Right
+949,Pepe Reina,77,77,1200000,GK,Spain,39,188,92,Villarreal CF,Right
+950,Nani,77,77,4300000,CAM,Portugal,35,177,72,Melbourne Victory,Right
+951,G. Pezzella,77,77,7000000,CB,Argentina,31,186,81,Real Betis Balompié,Right
+952,Negredo,77,77,3600000,ST,Spain,36,186,86,Cádiz CF,Left
+953,R. Soriano,77,77,8500000,CAM,Italy,31,182,76,Bologna,Right
+954,Aitor,77,77,5500000,GK,Spain,31,182,78,CA Osasuna,Right
+955,C. Trimmel,77,77,3200000,RWB,Austria,35,189,82,1. FC Union Berlin,Right
+956,L. Rodríguez,77,77,3600000,CAM,Argentina,37,167,67,Club Atlético Colón,Right
+957,S. El Shaarawy,77,77,10500000,LW,Italy,29,178,73,Roma,Right
+958,P. Groß,77,77,8500000,CM,Germany,31,181,78,Brighton & Hove Albion,Right
+959,Illarramendi,77,77,8500000,CM,Spain,32,179,74,Real Sociedad,Right
+960,De Marcos,77,77,5500000,RB,Spain,33,182,78,Athletic Club de Bilbao,Right
+961,Fidel,77,77,8500000,LM,Spain,32,180,74,Elche CF,Left
+962,J. Shelvey,77,77,10000000,CM,England,30,184,80,Newcastle United,Right
+963,G. Bou,77,77,8500000,ST,Argentina,32,175,72,New England Revolution,Right
+964,Rochina,77,77,8500000,CAM,Spain,31,182,76,Granada CF,Left
+965,M. Suárez,77,77,5000000,CAM,Argentina,34,183,75,River Plate,Right
+966,A. Dzyuba,77,77,6500000,ST,Russia,33,196,91,Adana Demirspor,Right
+967,C. Kouyaté,77,77,7000000,CDM,Senegal,32,189,83,Nottingham Forest,Right
+968,Montoro,77,77,3600000,CDM,Spain,34,181,72,Real Oviedo,Right
+969,M. Balotelli,77,77,9000000,ST,Italy,31,190,94,FC Sion,Right
+970,C. Stuani,77,77,4500000,ST,Uruguay,35,186,76,Girona FC,Right
+971,M. Sissoko,77,77,7000000,CDM,France,32,187,91,FC Nantes,Right
+972,D. Godín,77,77,1900000,CB,Uruguay,36,187,78,Vélez Sarsfield,Right
+973,Sidnei,77,77,7000000,CB,Brazil,32,185,80,Unión Deportiva Las Palmas,Right
+974,S. Jovetic,77,77,8500000,ST,Montenegro,32,183,79,Hertha BSC,Right
+975,Willian,77,77,6500000,RM,Brazil,33,175,77,Fulham,Right
+976,K. Gameiro,77,77,4500000,ST,France,35,172,69,RC Strasbourg Alsace,Right
+977,A. Guardado,77,77,3000000,CM,Mexico,35,169,67,Real Betis Balompié,Left
+978,S. Sirigu,77,77,1200000,GK,Italy,35,192,85,Napoli,Right
+979,Jorge Molina,77,77,0,ST,Spain,40,188,72,Granada CF,Right
+980,U. Sadiq,77,82,15500000,ST,Nigeria,25,192,75,Real Sociedad,Right
+981,V. Rosier,77,80,13000000,RB,France,25,175,75,Besiktas JK,Right
+982,T. Awoniyi,77,80,14500000,ST,Nigeria,24,183,85,Nottingham Forest,Right
+983,K. Thuram,77,84,21500000,CM,France,21,192,81,OGC Nice,Right
+984,Adrià Pedrosa,77,83,15500000,LM,Spain,24,176,69,RCD Espanyol de Barcelona,Left
+985,Arthur Cabral,77,83,17000000,ST,Brazil,24,186,89,Fiorentina,Right
+986,A. Hlo?ek,77,87,23000000,ST,Czech Republic,19,188,83,Bayer 04 Leverkusen,Right
+987,Alberto Moreno,77,77,9500000,LB,Spain,29,171,65,Villarreal CF,Left
+988,M. Camara,77,85,22500000,CDM,Mali,22,169,65,AS Monaco,Right
+989,Bryan Gil,77,86,23500000,CAM,Spain,21,175,65,Tottenham Hotspur,Left
+990,D. Hancko,77,85,22000000,CB,Slovakia,24,188,80,Feyenoord,Left
+991,G. Plata,77,86,23500000,CAM,Ecuador,21,178,65,Real Valladolid CF,Left
+992,Tuta,77,82,14500000,CB,Brazil,22,185,81,Eintracht Frankfurt,Right
+993,Unai Vencedor,77,84,21500000,CM,Spain,21,176,71,Athletic Club de Bilbao,Right
+994,M. Kilman,77,83,14500000,CB,England,25,194,89,Wolverhampton Wanderers,Left
+995,J. Maas,77,77,9000000,CB,Netherlands,28,193,90,AFC Richmond,Right
+996,R. Montlaur,77,77,10000000,CDM,France,27,176,70,AFC Richmond,Left
+997,S. Dest,77,85,22500000,RM,United States,21,175,62,AC Milan,Right
+998,J. Kuchta,77,80,14000000,ST,Czech Republic,25,185,80,AC Sparta Praha,Right
+999,Fábio Vieira,77,87,23500000,CAM,Portugal,22,176,61,Arsenal,Left
+1000,N. Madueke,77,86,23000000,CAM,England,20,182,70,PSV,Left
