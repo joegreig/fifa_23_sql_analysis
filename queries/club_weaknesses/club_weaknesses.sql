@@ -44,6 +44,6 @@ FROM players
 WHERE age < (SELECT average_age FROM target_club) 
     AND (value / 1000000) < (SELECT average_value_millions FROM target_club)
     AND overall > (SELECT average_overall FROM target_club)
-    AND club_name != 'Real Madrid CF'
+    AND club_name != (SELECT club_name FROM target_club)
 ORDER BY position_type, position
 
