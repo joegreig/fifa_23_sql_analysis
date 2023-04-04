@@ -1,7 +1,7 @@
 ##### Jump To 
 
 - Dream Team
-- Club Weaknesses
+- [Club Weaknesses](https://github.com/joegreig/fifa_23_sql_analysis/tree/main/queries/club_weaknesses)
 - Age Peaks
 
 ### General Queries
