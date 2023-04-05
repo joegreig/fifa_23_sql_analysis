@@ -12,7 +12,7 @@ FIFA 23 is a popular video game in which players can create and manage their own
 
 To explore the data, three main questions were posed:
 
-1. Create a "Dream Team" containing the best possible 11 players in the correct positions, with a 200,000,000 budget.
+1. Create a "Dream Team" containing the best possible 11 players in the correct positions, with a 250,000,000 budget.
 2. Identify a club's areas of weakness by position and recommend new players based on that club's average player age, overall rating, potential, and value.
 3. At which age do players in each type of position tend to peak?
 
